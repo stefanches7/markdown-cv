@@ -8,8 +8,8 @@ Aspiring PhD student in biology and computational properties of Brain Organoids
 <div id="webaddress">
 <a href="stefan.dvoretskii@tum.de">Email: stefan.dvoretskii@tum.de</a>
 | <a href="http://linkedin.com/stefan-dvoretskii-03b183131">LinkedIn: stefan-dvoretskii-03b183131</a>
-  | <a href="https://github.com/stefanches7">GitHub: stefanches7</a>
-  | <br> <a href="https://steved.netlify.app">Website: steved.netlify.app</a>
+  | <br> <a href="https://github.com/stefanches7">GitHub: stefanches7</a>
+  |  <a href="https://steved.netlify.app">Website: steved.netlify.app</a>
  </div>
 ### Specialized in
 
@@ -94,25 +94,25 @@ Internship in brain imaging with <br> __Georgia State University__ (Dr. Cyrus Ei
 ## Awards & Fellowships
 
 `School exchange`	 
-Woodbridge School, Woodbridge, Suffolk, Great Britain
+__Woodbridge School__, Woodbridge, Suffolk, Great Britain
 
 `Fellowship`	
-Motivation stipend of the TU Berlin, 09.2016 - 07.2017 - 3000€
+Motivation stipend of the __TU Berlin__, 09.2016 - 07.2017 - 3000€
 
 `Fellowship`	
-Student Stipend for Google Summer of Code participants, Summer 2017 - 6000$
+Student Stipend for __Google__ Summer of Code participants, Summer 2017 - 6000$
  
 `Fellowship`	
-BayBIDS motivation stipend, 11.2017-10.2018 - 3300€
+__BayBIDS__ motivation stipend, 11.2017-10.2018 - 3300€
 
 `Fellowship`
-Hans-Rudolf-Stiftung, 10.2018-10.2023 - 10500€
+__Hans-Rudolf__-Stiftung, 10.2018-10.2023 - 10500€
 
 `Fellowship`
-Stipend for Google Summer of Code participants, Summer 2019 - 4600$
+Stipend for __Google__ Summer of Code participants, Summer 2019 - 4600$
 
 `Fellowship`
-INCF & Mathworks Summer of Code participants, 07.2022-10.2022 - 3000$
+__INCF & Mathworks__ Summer of Code participants, 07.2022-10.2022 - 3000$
 
 `Exchange`
 Hong Kong University of Science and Technology, Fall 2022
@@ -124,7 +124,7 @@ BayCHINA, Bavarian-Chinese mobility fellowship, Fall 2022 - 1200€
 Technical University of Denmark, Copenhagen, Spring 2023
 
 `Fellowship`
-Erasmus+ mobility, Spring 2023 - 3400€
+__Erasmus+__ mobility, Spring 2023 - 3400€
 
 ## Engagement
 `Collaborator`	
@@ -132,26 +132,26 @@ __NeuroSim__ interests group
 - ◦	Cognitive Science, AI, Neurobiology and Computation
 
 `Member`	
-__AGV__ Academic Choral Society, Munich
+AGV Academic Choral Society, Munich
 - ◦	Choir & orchestra (violin), event organization, cultural activities
 
 ## Publications
 
 `2022`
-Dvoretskii, Stefan, et al. "Braitenberg vehicles as developmental neurosimulation." Artificial Life 28.3 (2022): 369-395.
+__Dvoretskii, Stefan, et al.__ "Braitenberg vehicles as developmental neurosimulation." Artificial Life 28.3 (2022): 369-395.
 
 `in preparation`  
 Wachutka L., Dvoretskii S., Gagneur J. et al. wBuild – build system for R reports.
 
 ### Attended events highlights
-- Neuroinformatics 2019, 1-2 September in Warsaw, Poland 
-- Brainhack 2019 Geneva, Marburg; Brainhack 2021 Geneva, Marseille
-- Innovation Think Tank Healthineers Workshop 2021, online
-- TUM Business Game, 28.-30. April 2022, Munich
+- __Neuroinformatics 2019__, 1-2 September in Warsaw, Poland 
+- __Brainhack__: 2019 Geneva, Marburg; 2021 Geneva, Marseille
+- __Siemens Innovation__ Think Tank Healthineers Workshop 2021, online
+- __TUM Business Game__, 28.-30. April 2022, Munich
 - Bridging Physics with Neuroscience and Machine Learning Symposium, 6. December 2022, Hong Kong SAR, China
-- EBRAINS CoCreate – Digital Roadmap for Neuropsychiatric Diseases, 1.-3. March 2023, Copenhagen, Denmark & online
-- EBRAINS PFC Workshop, 14.-16. March 2023, Paris, France
-- FENS-IBRO Conference “Establishment and Maintenance of Brain Cell States”, poster & flash talk, 23.-26. April 2023, Copenhagen, Denmark 
+- __EBRAINS__ CoCreate – Digital Roadmap for Neuropsychiatric Diseases, 1.-3. March 2023, Copenhagen, Denmark & online
+- __EBRAINS__ PFC Workshop, 14.-16. March 2023, Paris, France
+- __FENS-IBRO Brain Conference__ “Establishment and Maintenance of Brain Cell States”, poster & flash talk, 23.-26. April 2023, Copenhagen, Denmark 
 
 
 ## Skills and Hobbies 

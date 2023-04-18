@@ -9,10 +9,8 @@ Aspiring PhD student in biology and computational properties of Brain Organoids.
 <a href="stefan.dvoretskii@tum.de">Email: stefan.dvoretskii@tum.de</a>
 | <a href="http://linkedin.com/stefan-dvoretskii-03b183131">LinkedIn: stefan-dvoretskii-03b183131</a>
   | <a href="https://github.com/stefanches7">GitHub: stefanches7</a>
+  | <br> <a href="https://steved.netlify.app">Website: steved.netlify.app</a>
  </div>
-<div id="webaddress">
-  | <a href="https://steved.netlify.app">Website: steved.netlify.app</a>
-</div>
 ### Specialized in
 
 Brain Organoids, Sequencing data, Biological Imaging, Computational Modelling, Dynamical Systems
@@ -42,6 +40,49 @@ __B.Sc. Bioinformatics__ at the TU Munich/LMU Munich (joint study program)
 __Elite M. Sc. Neuroengineering__ in Elite Network of Bavaria, __TU Munich__
 - Final thesis: _"Structural and functional connectivity in neuronal cell cultures"_
 - Average grade: __2,2__ (best – 1,0; worst – 5,0)
+
+## Work experience
+
+`06.2016-08.2016`	
+Internship at the __State University of Saint-Petersburg, Laboratory of Physiological Genetics__
+Prions co-culturing (Molecular Biology, Yeast)
+`10.2016-11.2016`	
+Junior Project Manager at __Deutsche Payment GmbH (Berlin)__ and __Upnext Technologies Sp. z o.o. (Warschau)__ (Ruby on Rails, Go)
+
+`01.2017-08.2017`	 
+Student Developer at __Omikron Data Quality GmbH__ (JavaGWT, Jenkins, CI/CD)
+
+`05.2017-08.2017`
+Google Summer of Code '17 Student with __European Bioinformatics Institute, EMBL__, Cambrige, UK
+●	Files search API with a web interface (Javascript, React.js, Perl, HTML/CSS)
+`01.2018-09.2020`
+Student Undergraduate Researcher at the __Chair for Computational Biology__ (now Computational Medicine), Technical University of Munich
+●	Biological Modelling, Expression Data analysis, Bachelor's Thesis
+`05.2019-08.2019`
+Google Summer of Code '19 Student with __International Neuroinformatics Coordination Facility__, Dr. Bradly Alicea
+●	An _embodied cognitive simulation_ with _evolutionary development of neural networks_ with a _guided user interface_ (Kotlin, JavaFX)
+
+`16.10.2019-14.02.2020`
+__Data Analysis and Visualization in R tutor__, Technical University of Munich
+
+01.10.2020-31.03.2021
+Working Student IT at __STABL GmbH__
+●	Observable database of electrical multimodal battery system metrics	(Grafana, Influx, Python, Flask, Javascript, HTML)
+
+`09.04.2021-31.07.2021`
+Application Engineer at Mentalab – EEG hardware production (Computational Modelling, Brain-Computer Interfaces, EEG data analysis, MATLAB
+
+`15.08.2021-15.06.2022`
+Student Research Assistant at PainLab Munich
+●	EEG connectivity computation; Dimensionality reduction algorithms; Time-series data analysis (MATLAB)
+
+`03.07.2022-02.09.2022`
+Internship in __NeuCHiP__ - Neural cultures based AI (Prof. Dr. __David Saad__, Aston, UK)
+●	Computing in biological neural networks
+
+`13.07.2022-30.09.2022`	
+Internship in brain imaging with __Georgia State University__ (Dr. Cyrus Eierud)
+●	Demo application of GIFT (fMRI Group ICA) package (MATLAB, fMRI)
 
 
 ## Awards

@@ -26,18 +26,21 @@ Synaptic Plasticity in Neural Cell Colonies, Structural and Functional Connectiv
 
 `09.2009–06.2016`
 __Classical Gymnasium №610__, Saint Petersburg, Russian Federation
-* Focus on _Latin, Math, Ancient Greek_
+- Focus on _Latin, Math, Ancient Greek_
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`09.2016-06.2017`
+__Studienkolleg TU Berlin__, T (Technik) course
+- Grade: __1,2__ (best – 1,0; worst – 5,0)
 
-- Sizar
+`10.2017-09.2020`
+__B.Sc. Bioinformatics__ at the TU Munich/LMU Munich (joint study program)
+- Final thesis: _“Origins and Effects of Mutations in SARS-CoV-2 Genome”_
+- Average grade: __1,9__ (best – 1,0; worst – 5,0)
 
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
+`10.2020-ongoing`
+__Elite M. Sc. Neuroengineering__ in Elite Network of Bavaria, __TU Munich__
+- Final thesis: _"Structural and functional connectivity in neuronal cell cultures"_
+- Average grade: __2,2__ (best – 1,0; worst – 5,0)
 
 
 ## Awards

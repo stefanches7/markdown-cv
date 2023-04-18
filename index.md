@@ -42,7 +42,7 @@ __B.Sc. Bioinformatics__ at the TU Munich/LMU Munich <br> (joint study program)
 
 `10.2020-ongoing`
 __Elite M. Sc. Neuroengineering__ in Elite Network of Bavaria,<br> __TU Munich__
-- Final thesis: _"Structural and functional connectivity in neuronal <br> cell cultures"_ (Prof. Dr. Ruben Portugues (TUM), Prof. Dr. Jordi Fradera (Uni Barcelona))
+- Final thesis: _"Structural and functional connectivity in neuronal <br> cell cultures"_ (Prof. Dr. Ruben Portugues (TUM), <br> Prof. Dr. Jordi Fradera (Uni Barcelona))
 - Average grade: __2,2__ (best – 1,0; worst – 5,0)
 
 ## Work experience
@@ -69,14 +69,14 @@ Student Undergraduate Researcher at the __Chair for Computational Biology__ (now
 
 `05.2019-08.2019`
 Google Summer of Code '19 Student with __International Neuroinformatics Coordination Facility__, Dr. Bradly Alicea
-- ◦	An _embodied cognitive simulation_ with _evolutionary development of neural networks_ <br> with a _guided user interface_
+- ◦	An _embodied cognitive simulation_ with _evolutionary development <br> of neural networks_ with a _guided user interface_
 
 `16.10.2019-14.02.2020`
 __Data Analysis and Visualization in R tutor__, Technical University of Munich
 
 `01.10.2020-31.03.2021`
 Working Student IT at __STABL GmbH__
-- ◦	Observable database of electrical multimodal battery system metrics	
+- ◦	Electrical multimodal battery system metrics	
 
 `09.04.2021-31.07.2021`
 Application Engineer at __Mentalab__
@@ -152,17 +152,17 @@ Wachutka L., Dvoretskii S., Gagneur J. et al. wBuild – build system for R repo
 - __Brainhack__: 2019 Geneva, Marburg; 2021 Geneva, Marseille
 - __Siemens Innovation__ Think Tank Healthineers Workshop 2021, online
 - __TUM Business Game__, 28.-30. April 2022, Munich
-- Bridging Physics with Neuroscience and Machine Learning Symposium, 6. December 2022, Hong Kong SAR, China
-- __EBRAINS__ CoCreate – Digital Roadmap for Neuropsychiatric Diseases, 1.-3. March 2023, Copenhagen, Denmark & online
+- Bridging Physics with Neuroscience and Machine Learning Symposium, <br> 6. December 2022, Hong Kong SAR, China
+- __EBRAINS__ CoCreate – Digital Roadmap for Neuropsychiatric Diseases,<br> 1.-3. March 2023, Copenhagen, Denmark & online
 - __EBRAINS__ PFC Workshop, 14.-16. March 2023, Paris, France
-- __FENS-IBRO Brain Conference__ “Establishment and Maintenance of Brain Cell States”, poster & flash talk, 23.-26. April 2023, Copenhagen, Denmark 
+- __FENS-IBRO Brain Conference__ “Establishment and Maintenance of <br> Brain Cell States”, poster & flash talk, 23.-26. April 2023, Copenhagen, Denmark 
 
 
 ## Skills and Hobbies 
 
 ### Languages 
 
-German (very good), English (very good), Latin (GOLD ELEX), Ancient Greek (BRONZE ELEX), Russian (mother tongue), Ukrainian (mother tongue), Chinese (A2.1)
+German (fluent), English (fluent), Latin (GOLD ELEX), Ancient Greek (BRONZE ELEX), Russian (mother tongue), Ukrainian (mother tongue), Chinese (A2.1), Danish (beginner), Bulgarian (beginner)
 
 ### Music instruments
 

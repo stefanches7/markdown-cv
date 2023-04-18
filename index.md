@@ -1,13 +1,13 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Stefan Dvoretskii CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Stefan Dvoretskii
+Aspiring PhD student in biology and computational properties of Brain Organoids.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="stefan.dvoretskii">Email: stefan.dvoretskii@tum.de</a>
+| <a href="http://linkedin.com">My wikipedia page</a>
 </div>
 
 

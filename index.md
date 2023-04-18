@@ -10,7 +10,7 @@ Aspiring PhD student in biology and computational properties of Brain Organoids.
 | <a href="http://linkedin.com/stefan-dvoretskii-03b183131">LinkedIn: stefan-dvoretskii-03b183131</a>
   | <a href="https://github.com/stefanches7">GitHub: stefanches7</a>
  </div>
-<div id="website">
+<div id="webaddress">
   | <a href="https://steved.netlify.app">Website: steved.netlify.app</a>
 </div>
 ### Specialized in

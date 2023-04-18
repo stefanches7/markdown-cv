@@ -3,7 +3,7 @@ layout: cv
 title: Stefan Dvoretskii CV
 ---
 # Stefan Dvoretskii
-Aspiring PhD student in biology and computational properties of Brain Organoids.
+Aspiring PhD student in biology and computational properties of Brain Organoids
 
 <div id="webaddress">
 <a href="stefan.dvoretskii@tum.de">Email: stefan.dvoretskii@tum.de</a>
@@ -91,12 +91,40 @@ Internship in brain imaging with __Georgia State University__ (Dr. Cyrus Eierud)
 - ◦	Demo application of GIFT (fMRI Group ICA) package (MATLAB, fMRI)
 
 
-## Awards
+## Awards & Fellowships
 
-`2012`
-President, *Royal Society*, London, UK
+`School exchange`	 
+Woodbridge School, Woodbridge, Suffolk, Great Britain
 
-Associate, *French Academy of Science*, Paris, France
+`Fellowship:09.2016 - 07.2017`	
+Motivation stipend of the TU Berlin
+
+`Fellowship:Summer 2017`	
+Student Stipend for Google Summer of Code participants
+ 
+`Fellowship:11.2017-10.2018`	
+BayBIDS motivation stipend
+
+Stipend
+
+
+Stipend
+
+
+Exchange
+
+Exchange
+
+Stipend	Stipend of Hans-Rudolf-Stiftung
+●	Duration: 10.2018 – ongoing
+
+Student Stipend for Google Summer of Code participants, provided by Google
+●	Duration: Summer 2019
+Hong Kong University of Science and Technology, Fall 2022
+
+Technical University of Denmark, Copenhagen, Spring 2023
+
+BayCHINA, Bavarian-Chinese mobility fellowship, Fall 2022
 
 
 

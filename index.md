@@ -3,6 +3,8 @@ layout: cv
 title: Stefan Dvoretskii CV
 ---
 # Stefan Dvoretskii
+
+<img style="float: right;" src="media/my_photo.png">
 Aspiring PhD student in biology and computational properties of Brain Organoids
 
 <div id="webaddress">

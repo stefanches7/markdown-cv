@@ -172,8 +172,7 @@ Violin (good), piano, ukulele, domra, guitar (bearable)
 
 Reading, Philosophy, Psychology, Basketball, Programming, listening to music, riding a bike, walking
 
-<!-- ### Footer
 
-Last updated: April 2023 -->
+_Last updated: April 2023_
 
 

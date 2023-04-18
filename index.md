@@ -96,73 +96,80 @@ Internship in brain imaging with <br> __Georgia State University__ (Dr. Cyrus Ei
 `School exchange`	 
 Woodbridge School, Woodbridge, Suffolk, Great Britain
 
-`Fellowship:09.2016 - 07.2017`	
-Motivation stipend of the TU Berlin
+`Fellowship`	
+Motivation stipend of the TU Berlin, 09.2016 - 07.2017 - 3000€
 
-`Fellowship:Summer 2017`	
-Student Stipend for Google Summer of Code participants
+`Fellowship`	
+Student Stipend for Google Summer of Code participants, Summer 2017 - 6000$
  
-`Fellowship:11.2017-10.2018`	
-BayBIDS motivation stipend
+`Fellowship`	
+BayBIDS motivation stipend, 11.2017-10.2018 - 3300€
 
-Stipend
+`Fellowship`
+Hans-Rudolf-Stiftung, 10.2018-10.2023 - 10500€
 
+`Fellowship`
+Stipend for Google Summer of Code participants, Summer 2019 - 4600$
 
-Stipend
+`Fellowship`
+INCF & Mathworks Summer of Code participants, 07.2022-10.2022 - 3000$
 
-
-Exchange
-
-Exchange
-
-Stipend	Stipend of Hans-Rudolf-Stiftung
-●	Duration: 10.2018 – ongoing
-
-Student Stipend for Google Summer of Code participants, provided by Google
-●	Duration: Summer 2019
+`Exchange`
 Hong Kong University of Science and Technology, Fall 2022
 
+`Fellowship`
+BayCHINA, Bavarian-Chinese mobility fellowship, Fall 2022 - 1200€
+
+`Exchange`
 Technical University of Denmark, Copenhagen, Spring 2023
 
-BayCHINA, Bavarian-Chinese mobility fellowship, Fall 2022
+`Fellowship`
+Erasmus+ mobility, Spring 2023 - 3400€
 
+## Engagement
+`Collaborator`	
+__NeuroSim__ interests group
+- ◦	Cognitive Science, AI, Neurobiology and Computation
 
+`Member`	
+__AGV__ Academic Choral Society, Munich
+- ◦	Choir & orchestra (violin), event organization, cultural activities
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+`2022`
+Dvoretskii, Stefan, et al. "Braitenberg vehicles as developmental neurosimulation." Artificial Life 28.3 (2022): 369-395.
 
-### Journals
+`in preparation`  
+Wachutka L., Dvoretskii S., Gagneur J. et al. wBuild – build system for R reports.
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+### Attended events highlights
+- Neuroinformatics 2019, 1-2 September in Warsaw, Poland 
+- Brainhack 2019 Geneva, Marburg; Brainhack 2021 Geneva, Marseille
+- Innovation Think Tank Healthineers Workshop 2021, online
+- TUM Business Game, 28.-30. April 2022, Munich
+- Bridging Physics with Neuroscience and Machine Learning Symposium, 6. December 2022, Hong Kong SAR, China
+- EBRAINS CoCreate – Digital Roadmap for Neuropsychiatric Diseases, 1.-3. March 2023, Copenhagen, Denmark & online
+- EBRAINS PFC Workshop, 14.-16. March 2023, Paris, France
+- FENS-IBRO Conference “Establishment and Maintenance of Brain Cell States”, poster & flash talk, 23.-26. April 2023, Copenhagen, Denmark 
 
 
+## Skills and Hobbies 
+
+### Languages 
+
+German (very good), English (very good), Latin (GOLD ELEX), Ancient Greek (BRONZE ELEX), Russian (mother tongue), Ukrainian (mother tongue), Chinese (A2.1)
+
+### Music instruments
+
+Violin (good), piano, ukulele, domra, guitar (bearable)
+
+### Hobbys
+
+Reading, Philosophy, Psychology, Basketball, Programming, listening to music, riding a bike, walking
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: April 2023 -->
 
 

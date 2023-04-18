@@ -65,14 +65,14 @@ Student Undergraduate Researcher at the __Chair for Computational Biology__ (now
 
 `05.2019-08.2019`
 Google Summer of Code '19 Student with __International Neuroinformatics Coordination Facility__, Dr. Bradly Alicea
-- ◦	An _embodied cognitive simulation_ with _evolutionary development of neural networks_ with a _guided user interface_ (Kotlin, JavaFX)
+- ◦	An _embodied cognitive simulation_ with _evolutionary development of neural networks_ <br> with a _guided user interface_
 
 `16.10.2019-14.02.2020`
 __Data Analysis and Visualization in R tutor__, Technical University of Munich
 
 `01.10.2020-31.03.2021`
 Working Student IT at __STABL GmbH__
-- ◦	Observable database of electrical multimodal battery system metrics	(Grafana, Influx, Python, Flask, Javascript, HTML)
+- ◦	Observable database of electrical multimodal battery system metrics	
 
 `09.04.2021-31.07.2021`
 Application Engineer at Mentalab – EEG hardware production 

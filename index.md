@@ -9,9 +9,10 @@ Aspiring PhD student in biology and computational properties of Brain Organoids.
 <a href="stefan.dvoretskii@tum.de">Email: stefan.dvoretskii@tum.de</a>
 | <a href="http://linkedin.com/stefan-dvoretskii-03b183131">LinkedIn: stefan-dvoretskii-03b183131</a>
   | <a href="https://github.com/stefanches7">GitHub: stefanches7</a>
+ </div>
+<div id="website">
   | <a href="https://steved.netlify.app">Website: steved.netlify.app</a>
 </div>
-
 ### Specialized in
 
 Brain Organoids, Sequencing data, Biological Imaging, Computational Modelling, Dynamical Systems

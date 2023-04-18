@@ -6,29 +6,27 @@ title: Stefan Dvoretskii CV
 Aspiring PhD student in biology and computational properties of Brain Organoids.
 
 <div id="webaddress">
-<a href="stefan.dvoretskii">Email: stefan.dvoretskii@tum.de</a>
-| <a href="http://linkedin.com">My wikipedia page</a>
+<a href="stefan.dvoretskii@tum.de">Email: stefan.dvoretskii@tum.de</a>
+| <a href="http://linkedin.com/stefan-dvoretskii-03b183131">LinkedIn: stefan-dvoretskii-03b183131</a>
+  | <a href="https://github.com/stefanches7">GitHub: stefanches7</a>
+  | <a href="https://steved.netlify.app">Website: steved.netlify.app</a>
 </div>
-
-
-## Currently
-
-Standing on the shoulders of giants
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Brain Organoids, Sequencing data, Biological Imaging, Computational Modelling, Dynamical Systems
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Synaptic Plasticity in Neural Cell Colonies, Structural and Functional Connectivity, Development of Brain Tissue in vitro
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`09.2009–06.2016`
+__Classical Gymnasium №610__, Saint Petersburg, Russian Federation
+* Focus on _Latin, Math, Ancient Greek_
 
 `June 1661 - now`
 __Trinity College, Cambridge__

@@ -13,6 +13,7 @@ Aspiring PhD student in biology and computational properties of Brain Organoids
 | <a href="http://linkedin.com/stefan-dvoretskii-03b183131">LinkedIn: stefan-dvoretskii-03b183131</a>
   | <br> <a href="https://github.com/stefanches7">GitHub: stefanches7</a>
   |  <a href="https://steved.netlify.app">Website: steved.netlify.app</a>
+  | <br> <a href="https://stefanches7.github.io/markdown-cv/">CV: https://stefanches7.github.io/markdown-cv/</a>
  </div>
 ### Specialized in
 
@@ -35,13 +36,13 @@ __Studienkolleg TU Berlin__, T (Technik) course
 - Grade: __1,2__ (best – 1,0; worst – 5,0)
 
 `10.2017-09.2020`
-__B.Sc. Bioinformatics__ at the TU Munich/LMU Munich (joint study program)
-- Final thesis: _“Origins and Effects of Mutations in SARS-CoV-2 Genome”_
+__B.Sc. Bioinformatics__ at the TU Munich/LMU Munich <br> (joint study program)
+- Final thesis: _“Origins and Effects of Mutations in SARS-CoV-2 <br> Genome”_ (Prof. Dr. Julien Gagneur)
 - Average grade: __1,9__ (best – 1,0; worst – 5,0)
 
 `10.2020-ongoing`
-__Elite M. Sc. Neuroengineering__ in Elite Network of Bavaria, __TU Munich__
-- Final thesis: _"Structural and functional connectivity in neuronal cell cultures"_
+__Elite M. Sc. Neuroengineering__ in Elite Network of Bavaria,<br> __TU Munich__
+- Final thesis: _"Structural and functional connectivity in neuronal <br> cell cultures"_ (Prof. Dr. Ruben Portugues (TUM), Prof. Dr. Jordi Fradera (Uni Barcelona))
 - Average grade: __2,2__ (best – 1,0; worst – 5,0)
 
 ## Work experience
@@ -60,7 +61,7 @@ Student Developer at __Omikron Data Quality GmbH__
 
 `05.2017-08.2017`
 Google Summer of Code '17 Student with __European Bioinformatics Institute, EMBL__, Cambrige, UK
-- ◦	Files search API with a web interface (Javascript, React.js, Perl, HTML/CSS)
+- ◦	Files search API with a web interface (Javascript, React.js, <br> Perl, HTML/CSS)
 
 `01.2018-09.2020`
 Student Undergraduate Researcher at the __Chair for Computational Biology__ (now Computational Medicine), Technical University of Munich
@@ -78,12 +79,12 @@ Working Student IT at __STABL GmbH__
 - ◦	Observable database of electrical multimodal battery system metrics	
 
 `09.04.2021-31.07.2021`
-Application Engineer at Mentalab – EEG hardware production 
-- ◦ Computational Modelling, Brain-Computer Interfaces, EEG data analysis, MATLAB
+Application Engineer at __Mentalab__
+- ◦ EEG hardware production, Computational Modelling,<br> Brain-Computer Interfaces, EEG data analysis, MATLAB
 
 `15.08.2021-15.06.2022`
 Student Research Assistant at PainLab Munich
-- ◦	EEG connectivity computation; Dimensionality reduction algorithms; Time-series data analysis (MATLAB)
+- ◦	EEG connectivity in pain patients (MATLAB)
 
 `03.07.2022-02.09.2022`
 Internship in __NeuCHiP__ - Neural cultures based AI <br> (Prof. Dr. __David Saad__, Aston, UK)
@@ -91,7 +92,7 @@ Internship in __NeuCHiP__ - Neural cultures based AI <br> (Prof. Dr. __David Saa
 
 `13.07.2022-30.09.2022`	
 Internship in brain imaging with <br> __Georgia State University__ (Dr. Cyrus Eierud)
-- ◦	Demo application of GIFT (fMRI Group ICA) package (MATLAB, fMRI)
+- ◦	Demo of __GIFT__ package (MATLAB, fMRI)
 
 
 ## Awards & Fellowships

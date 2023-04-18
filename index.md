@@ -70,7 +70,7 @@ Google Summer of Code '19 Student with __International Neuroinformatics Coordina
 `16.10.2019-14.02.2020`
 __Data Analysis and Visualization in R tutor__, Technical University of Munich
 
-01.10.2020-31.03.2021
+`01.10.2020-31.03.2021`
 Working Student IT at __STABL GmbH__
 - ◦	Observable database of electrical multimodal battery system metrics	(Grafana, Influx, Python, Flask, Javascript, HTML)
 

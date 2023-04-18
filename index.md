@@ -83,11 +83,11 @@ Student Research Assistant at PainLab Munich
 - ◦	EEG connectivity computation; Dimensionality reduction algorithms; Time-series data analysis (MATLAB)
 
 `03.07.2022-02.09.2022`
-Internship in __NeuCHiP__ - Neural cultures based AI (Prof. Dr. __David Saad__, Aston, UK)
+Internship in __NeuCHiP__ - Neural cultures based AI <br> (Prof. Dr. __David Saad__, Aston, UK)
 - ◦	Computing in biological neural networks
 
 `13.07.2022-30.09.2022`	
-Internship in brain imaging with __Georgia State University__ (Dr. Cyrus Eierud)
+Internship in brain imaging with <br> __Georgia State University__ (Dr. Cyrus Eierud)
 - ◦	Demo application of GIFT (fMRI Group ICA) package (MATLAB, fMRI)
 
 

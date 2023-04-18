@@ -45,44 +45,50 @@ __Elite M. Sc. Neuroengineering__ in Elite Network of Bavaria, __TU Munich__
 
 `06.2016-08.2016`	
 Internship at the __State University of Saint-Petersburg, Laboratory of Physiological Genetics__
-Prions co-culturing (Molecular Biology, Yeast)
+- ◦ Prions co-culturing (Molecular Biology, Yeast)
+
 `10.2016-11.2016`	
-Junior Project Manager at __Deutsche Payment GmbH (Berlin)__ and __Upnext Technologies Sp. z o.o. (Warschau)__ (Ruby on Rails, Go)
+Junior Project Manager at __Deutsche Payment GmbH (Berlin)__ and __Upnext Technologies Sp. z o.o. (Warschau)__ 
+- ◦ Ruby on Rails, Go
 
 `01.2017-08.2017`	 
-Student Developer at __Omikron Data Quality GmbH__ (JavaGWT, Jenkins, CI/CD)
+Student Developer at __Omikron Data Quality GmbH__ 
+- ◦ JavaGWT, Jenkins, CI/CD
 
 `05.2017-08.2017`
 Google Summer of Code '17 Student with __European Bioinformatics Institute, EMBL__, Cambrige, UK
-●	Files search API with a web interface (Javascript, React.js, Perl, HTML/CSS)
+- ◦	Files search API with a web interface (Javascript, React.js, Perl, HTML/CSS)
+
 `01.2018-09.2020`
 Student Undergraduate Researcher at the __Chair for Computational Biology__ (now Computational Medicine), Technical University of Munich
-●	Biological Modelling, Expression Data analysis, Bachelor's Thesis
+- ◦	Biological Modelling, Expression Data analysis, Bachelor's Thesis
+
 `05.2019-08.2019`
 Google Summer of Code '19 Student with __International Neuroinformatics Coordination Facility__, Dr. Bradly Alicea
-●	An _embodied cognitive simulation_ with _evolutionary development of neural networks_ with a _guided user interface_ (Kotlin, JavaFX)
+- ◦	An _embodied cognitive simulation_ with _evolutionary development of neural networks_ with a _guided user interface_ (Kotlin, JavaFX)
 
 `16.10.2019-14.02.2020`
 __Data Analysis and Visualization in R tutor__, Technical University of Munich
 
 01.10.2020-31.03.2021
 Working Student IT at __STABL GmbH__
-●	Observable database of electrical multimodal battery system metrics	(Grafana, Influx, Python, Flask, Javascript, HTML)
+- ◦	Observable database of electrical multimodal battery system metrics	(Grafana, Influx, Python, Flask, Javascript, HTML)
 
 `09.04.2021-31.07.2021`
-Application Engineer at Mentalab – EEG hardware production (Computational Modelling, Brain-Computer Interfaces, EEG data analysis, MATLAB
+Application Engineer at Mentalab – EEG hardware production 
+- ◦ Computational Modelling, Brain-Computer Interfaces, EEG data analysis, MATLAB
 
 `15.08.2021-15.06.2022`
 Student Research Assistant at PainLab Munich
-●	EEG connectivity computation; Dimensionality reduction algorithms; Time-series data analysis (MATLAB)
+- ◦	EEG connectivity computation; Dimensionality reduction algorithms; Time-series data analysis (MATLAB)
 
 `03.07.2022-02.09.2022`
 Internship in __NeuCHiP__ - Neural cultures based AI (Prof. Dr. __David Saad__, Aston, UK)
-●	Computing in biological neural networks
+- ◦	Computing in biological neural networks
 
 `13.07.2022-30.09.2022`	
 Internship in brain imaging with __Georgia State University__ (Dr. Cyrus Eierud)
-●	Demo application of GIFT (fMRI Group ICA) package (MATLAB, fMRI)
+- ◦	Demo application of GIFT (fMRI Group ICA) package (MATLAB, fMRI)
 
 
 ## Awards

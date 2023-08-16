@@ -40,9 +40,9 @@ __B.Sc. Bioinformatics__ at the TU Munich/LMU Munich <br> (joint study program)
 - Final thesis: _“Origins and Effects of Mutations in SARS-CoV-2 <br> Genome”_ (Prof. Dr. Julien Gagneur)
 - Average grade: __1,9__ (best – 1,0; worst – 5,0)
 
-`10.2020-ongoing`
+`10.2020-09.2023`
 __Elite M. Sc. Neuroengineering__ in Elite Network of Bavaria,<br> __TU Munich__
-- Final thesis: _"Structural and functional connectivity in neuronal <br> cell cultures"_ (Prof. Dr. Ruben Portugues (TUM), <br> Prof. Dr. Jordi Fradera (Uni Barcelona))
+- Final thesis: _"Connectivity Changes in a Geometrically and Biophysically Plausible SNN Model of 2D Neuronal Cell Culture"_ (Prof. Dr. Ruben Portugues (TU Munich), <br> Prof. Dr. Jordi Fradera (University of Barcelona))
 - Average grade: __2,2__ (best – 1,0; worst – 5,0)
 
 ## Work experience
@@ -173,6 +173,6 @@ Violin (good), piano, ukulele, domra, guitar (bearable)
 Reading, Philosophy, Psychology, Basketball, Programming, listening to music, riding a bike, walking
 
 
-_Last updated: April 2023_
+_Last updated: August 2023_
 
 

@@ -1,5 +1,5 @@
 ---
-layout: kjhealy
+layout: cv
 title: Stefan Dvoretskii CV
 ---
 <img style="float: right;width: 15vw; height:auto" src="media/my_photo.png">

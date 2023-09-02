@@ -19,9 +19,13 @@ Software Development, Sequencing Data Analysis, Computational Modelling in Life 
 
 ## Work experience
 
-`07.2022-11.2022`	
-Neuroscience Intern at <br> __Georgia State University__ 
+`08.2022-11.2022`	
+Neuroscience Application Developer placement at <br> __Georgia State University, USA__ 
 - • Simulation runs and documentation of group fMRI analysis to ease users acquisition.
+<hr>
+`07.2022-08.2022`	
+Computational Neuroscientist placement at <br> __Aston University, UK__ 
+- • Modified Transfer Entropy measurement mathematically to avoid bias.
 <hr>
 `08.2021-06.2022`
 Data Analyst at PainLab Munich

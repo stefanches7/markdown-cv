@@ -77,7 +77,12 @@ code {
 	color: #ccc;
 }
 
+hr {
+	display: inline-block;
+}
+
 p code {
+	font-size:110%
 	position: absolute;
 	text-align: right;
 	right: -20%;

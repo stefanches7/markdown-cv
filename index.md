@@ -29,19 +29,19 @@ Data Analyst at PainLab Munich
 <hr>
 `04.2021-07.2021`
 Application Engineer at __Mentalab__
--  • I have developed BCI tasks like Motor Imagery and worked on the signal processing. This helped to advertise the EEG device.
+-  • I have developed BCI tasks like Motor Imagery and worked on the signal processing. <br> This helped to advertise the EEG device.
 <hr>
 `10.2020-03.2021`
 IT Architecture Developer at __STABL GmbH__
--  • Improved the remote control of battery racks and code quality in the company, which saved maintenance costs by 70%.
+-  • Improved the remote control of battery racks and code quality in the company, <br> which saved maintenance costs by 70%.
 <hr>
 `05.2019-08.2019`
-Google Summer of Code '19 Student with __International Neuroinformatics Coordination Facility__, Dr. Bradly Alicea
+Google Summer of Code '19 Student with __International Neuroinformatics Coordination Facility__
 - • Trained Machine Learning capable agents for Cognitive Science experiments.
 <hr>
 `01.2018-09.2020`
 Assistant Researcher at the __Chair for Computational Biology__, TUM
-- • Performed sequencing data analysis/QC, developed ML models and investigated new scientific niches.
+- • Performed sequencing data analysis/QC, developed ML models and investigated <br> new scientific niches.
 <hr>
 `05.2017-08.2017`
 Google Summer of Code with __European Bioinformatics Institute, EMBL__, Cambrige, UK

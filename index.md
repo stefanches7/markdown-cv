@@ -65,11 +65,13 @@ __Elite M. Sc. Neuroengineering__ in Elite Network of Bavaria,<br> __TU Munich__
 
 ## Publications
 
-`2022`
-__Dvoretskii, Stefan, et al.__ "Braitenberg vehicles as developmental neurosimulation." Artificial Life 28.3 (2022): 369-395.
+__Dvoretskii Stefan et al.__ "Braitenberg vehicles as developmental neurosimulation." Artificial Life 28.3 (2022): 369-395.
 
-`in preparation`  
-Wachutka L., Dvoretskii S., Gagneur J. et al. wBuild – build system for R reports.
+Elisabeth Esser et al. "Genomic Footprinting to Decipher In-Hospital SARS-CoV-2 Transmission Events" (submitted)
+
+Bradly Alicea et al. "Developmental Embodied Agents as Meta-brain Models" DevoNN Workshop, 2020
+
+Wachutka L., Dvoretskii S., Gagneur J. et al. wBuild – build system for R reports. (in preparation)
 
 _Last updated: September 2023_
 

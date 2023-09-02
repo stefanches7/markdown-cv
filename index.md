@@ -55,6 +55,7 @@ Student Developer at __Omikron Data Quality GmbH__
 Junior Project Manager at __Deutsche Payment GmbH (Berlin)__ 
 - • Hands-on project manager training and facilitated communication cross-countries.
 
+<hr>
 
 ## Education
 

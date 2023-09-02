@@ -16,7 +16,7 @@ title: Stefan Dvoretskii CV
 
 
 `13.07.2022-30.09.2022`	
-Internship in brain imaging with <br> __Georgia State University__ (Dr. Cyrus Eierud)
+Application Intern at <br> __Georgia State University__ 
 - I have performed multiple runs with real data and documented the process. Clear documentation facilitates the on-boarding and attracts more users.
 
 `15.08.2021-15.06.2022`

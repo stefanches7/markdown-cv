@@ -14,20 +14,19 @@ title: Stefan Dvoretskii CV
  
 ## Work experience
 
-
-`13.07.2022-30.09.2022`	
+`07.2022-11.2022`	
 Application Intern at <br> __Georgia State University__ 
 - I have performed multiple runs with real data and documented the process. Clear documentation facilitates the on-boarding and attracts more users.
 
-`15.08.2021-15.06.2022`
+`08.2021-06.2022`
 Data Analyst at PainLab Munich
 - My work helped to pinpoint EEG biomarkers of Chronic Pain.
 
-`09.04.2021-31.07.2021`
+`04.2021-07.2021`
 Application Engineer at __Mentalab__
 -  I have developed BCI tasks like Motor Imagery and worked on the signal processing. This helped to apply the Mentalab EEG device for sleep studies and BCI paraigms.
 
-`01.10.2020-31.03.2021`
+`10.2020-03.2021`
 Working Student IT at __STABL GmbH__
 -  Improved the remote control of the battery racks and code quality in the company, which saved maintenance costs by 70%.
 

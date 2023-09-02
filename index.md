@@ -7,9 +7,11 @@ title: Stefan Dvoretskii CV
 
 
 <div id="webaddress">
-<a href="stefan.dvoretskii@tum.de">Email: stefan.dvoretskii@tum.de</a>
-| <a href="https://www.linkedin.com/in/stefan-dvoretskii-03b183131/">LinkedIn: stefan-dvoretskii-03b183131</a>
-  | <br> <a href="https://github.com/stefanches7">GitHub: stefanches7</a>
+<a href="stefan.dvoretskii@tum.de">Email: stefan.dvoretskii@tum.de</a> 
+  <br>
+<a href="https://www.linkedin.com/in/stefan-dvoretskii-03b183131/">LinkedIn: stefan-dvoretskii-03b183131</a>
+  <br> 
+  <a href="https://github.com/stefanches7">GitHub: stefanches7</a>
  </div>
 ## Skills
 

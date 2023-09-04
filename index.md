@@ -33,11 +33,11 @@ Data Analyst at __PainLab Munich__
 <hr>
 `04.2021-07.2021`
 Application Engineer at __Mentalab__
--  • I have developed BCI tasks like Motor Imagery and worked on the signal processing. <br> This helped to advertise the EEG device.
+-  • Developed BCI use cases to advertise the EEG device.
 <hr>
 `10.2020-03.2021`
 IT Architecture Developer at __STABL GmbH__
--  • Improved the remote control of battery racks and code quality in the company, <br> which saved maintenance costs by 70%.
+-  • Improved the remote control of battery racks and code quality in the company, saving maintenance costs by 70%.
 <hr>
 `05.2019-08.2019`
 Google Summer of Code '19 Student with __International Neuroinformatics Coordination Facility__
@@ -53,11 +53,11 @@ Google Summer of Code with __European Bioinformatics Institute, EMBL__, Cambrige
 <hr>
 `01.2017-08.2017`	 
 Student Developer at __Omikron Data Quality GmbH__ 
-- • Maintained the front-end website and backend JavaScript database SRM. 
+- • Website and backend JavaScript database SRM maintenance. 
  <hr>
 `10.2016-11.2016`	
 Junior Project Manager at __Deutsche Payment GmbH (Berlin)__ 
-- • Hands-on project manager training and facilitated communication cross-countries.
+- • Hands-on project manager training and cross-deparmental communication.
 
 <hr>
 

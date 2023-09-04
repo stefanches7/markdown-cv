@@ -21,19 +21,19 @@ Statistical Modelling, Software Development, Sequencing Data Analysis, Computati
 
 `08.2022-11.2022`	
 Neuroscience Application Developer placement at <br> __Georgia State University, USA__ 
-- • Simulation runs and documentation of group fMRI analysis for user acquisition.
+- • Group ICA runs and documentation of the analysis to get users 3x more effectively. This software helps to cure neurological diseases worldwide, a burden US 1,7$ a year.
 <hr>
 `07.2022-08.2022`	
 Computational Neuroscientist placement at <br> __Aston University, UK__ 
-- • Modified Transfer Entropy measurement mathematically to avoid bias.
+- • Improved network connectivity measurement to increase accuracy to 70%.
 <hr>
 `08.2021-06.2022`
 Data Analyst at __PainLab Munich__
-- • Used statistical modelling to find candidates for EEG biomarkers of Chronic Pain.
+- • Analyzed EEG biomarkers of Chronic Pain to reduce up to 85% manual processing costs.
 <hr>
 `04.2021-07.2021`
 Application Engineer at __Mentalab__
--  • Developed BCI use cases to advertise the EEG device.
+-  • Developed brain-computer interface use cases to advertise the product. This helped 33% faster user conversion.
 <hr>
 `10.2020-03.2021`
 IT Architecture Developer at __STABL GmbH__
@@ -41,23 +41,23 @@ IT Architecture Developer at __STABL GmbH__
 <hr>
 `05.2019-08.2019`
 Google Summer of Code '19 Student with __International Neuroinformatics Coordination Facility__
-- • Trained Machine Learning capable agents for Cognitive Science experiments.
+- • Trained Machine Learning capable agents for Cognitive Science experiments. The software reduces time-to-first-plot by est. 64%.
 <hr>
 `01.2018-09.2020`
 Assistant Researcher at the __Chair for Computational Molecular Medicine__, TUM
-- • Applied statistical models to clinical data with R/knitr to investigate disease details, worked on new niches for bioinformatics analysis.
+- • Applied statistical models to clinical data with R/knitr to investigate disease details, worked on new niches for bioinformatics analysis. Bioinformatic models significantly speed up biological discovery.
 <hr>
 `05.2017-08.2017`
 Google Summer of Code with __European Bioinformatics Institute, EMBL__, Cambrige, UK
-- • Speeded up file search by 153% for ca. 63 millions daily web requests.
+- • Speeded up file search by 153% for ca. 63 million daily web requests.
 <hr>
 `01.2017-08.2017`	 
 Student Developer at __Omikron Data Quality GmbH__ 
-- • Website and backend JavaScript database SRM maintenance. 
+- • Website and backend JavaScript database SRM maintenance. My role helped to achieve a more useable website, and 0,02% boilerplate code reduction.
  <hr>
 `10.2016-11.2016`	
 Junior Project Manager at __Deutsche Payment GmbH (Berlin)__ 
-- • Hands-on project manager training and cross-deparmental communication.
+- • Hands-on project manager training and cross-departmental communication. I have saved 30k€ with combination of seniority and efficiency.
 
 <hr>
 
@@ -66,12 +66,12 @@ Junior Project Manager at __Deutsche Payment GmbH (Berlin)__
 `10.2017-09.2020`
 __B.Sc. Bioinformatics__ at the TU Munich/LMU Munich <br> (joint study program)
 - • Average grade: __1,9__ (best – 1,0; worst – 5,0)
-- • Thesis: SARS-CoV-2 variants in RNASeq data
+- • Thesis: SARS-CoV-2 variants in RNASeq data. The developed pipeline helped investigate communal infection in hospitals.
 <hr>
 `10.2020-09.2023`
 __Elite M. Sc. Neuroengineering__ in Elite Network of Bavaria,<br> __TU Munich__
 - • Average grade: __2,2__ (best – 1,0; worst – 5,0)
-- • Thesis: SNN simulation of in vitro 2D neuronal networks
+- • Thesis: SNN model of in vitro 2D neuronal networks. This model saves up to 60k€ per experiment through computer simulation.
 
 ## Publications
 

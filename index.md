@@ -29,7 +29,7 @@ Computational Neuroscientist placement at <br> __Aston University, UK__
 <hr>
 `08.2021-06.2022`
 Data Analyst at __PainLab Munich__
-- • Picking candidates for EEG biomarkers of Chronic Pain.
+- • Used statistical modelling to find candidates for EEG biomarkers of Chronic Pain.
 <hr>
 `04.2021-07.2021`
 Application Engineer at __Mentalab__
@@ -45,7 +45,7 @@ Google Summer of Code '19 Student with __International Neuroinformatics Coordina
 <hr>
 `01.2018-09.2020`
 Assistant Researcher at the __Chair for Computational Biology__, TUM
-- • Analyzed clinical sequencing data using R/knitr to investigate disease details, developed statistical models and investigated <br> new scientific niches for bioinformatics analysis.
+- • Analyzed clinical sequencing data using R/knitr to investigate disease details, developed statistical models and investigated new scientific niches for bioinformatics analysis.
 <hr>
 `05.2017-08.2017`
 Google Summer of Code with __European Bioinformatics Institute, EMBL__, Cambrige, UK

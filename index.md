@@ -44,8 +44,8 @@ Google Summer of Code '19 Student with __International Neuroinformatics Coordina
 - • Trained Machine Learning capable agents for Cognitive Science experiments.
 <hr>
 `01.2018-09.2020`
-Assistant Researcher at the __Chair for Computational Biology__, TUM
-- • Analyzed clinical sequencing data using R/knitr to investigate disease details, developed statistical models and investigated new scientific niches for bioinformatics analysis.
+Assistant Researcher at the __Chair for Computational Molecular Medicine__, TUM
+- • Applied statistical models to clinical data with R/knitr to investigate disease details, worked on new niches for bioinformatics analysis.
 <hr>
 `05.2017-08.2017`
 Google Summer of Code with __European Bioinformatics Institute, EMBL__, Cambrige, UK

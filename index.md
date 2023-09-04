@@ -15,7 +15,7 @@ title: Stefan Dvoretskii CV
  </div>
 ## Skills
 
-Software Development, Sequencing Data Analysis, Computational Modelling in Life Sciences, Communication, Teamwork
+Statistical Modelling, Software Development, Sequencing Data Analysis, Computational Modelling in Life Sciences, Communication, Teamwork
 
 ## Work experience
 

@@ -28,7 +28,7 @@ Computational Neuroscientist placement at <br> __Aston University, UK__
 - • Modified Transfer Entropy measurement mathematically to avoid bias.
 <hr>
 `08.2021-06.2022`
-Data Analyst at PainLab Munich
+Data Analyst at __PainLab Munich__
 - • Picking candidates for EEG biomarkers of Chronic Pain.
 <hr>
 `04.2021-07.2021`

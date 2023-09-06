@@ -21,31 +21,38 @@ Statistical Modelling, Java (3 years), Python (3 years), Javascript (2 years), J
 
 `08.2022-11.2022`	
 Neuroscience Application Developer placement at <br> __Georgia State University, USA__ 
-- • Group ICA runs and documentation of the analysis to get users 3x more effectively. This software helps to cure neurological diseases worldwide, a burden worth US 1,7 trillion $ a year.
+- • Group ICA runs and documentation for 3x more effective user onboarding
+- • Help to cure neurological diseases burden worth US 1,7 trillion $ a year.
 <hr>
 `07.2022-08.2022`	
 Computational Neuroscientist placement at <br> __Aston University, UK__ 
-- • Improved network connectivity measurements to reduce bias more than 3-fold. This allows for a smoother network model, saving >30k€ on each experiment.
+- • Improved network connectivity measurements to reduce bias more than 3-fold
+- • Smoother network model, saving >4k€ on each experiment.
 <hr>
 `08.2021-06.2022`
 Data Analyst at __PainLab Munich__
-- • Analyzed digital biomarkers of Chronic Pain to reduce up to 85% manual processing costs. Automated diagnosis is also at least 3x faster.
+- • Develop digital biomarkers of Chronic Pain to reduce up to 85% manual processing costs
+- • Automated diagnosis is also at least 3x faster.
 <hr>
 `04.2021-07.2021`
 Application Engineer at __Mentalab__
--  • Developed brain-computer interface use cases to advertise the product. This helped 33% faster user conversion.
+- • Developed brain-computer interface use cases to advertise the product.
+- • Use cases help >33% faster user conversion.
 <hr>
 `10.2020-03.2021`
 IT Architecture Developer at __STABL GmbH__
--  • Improved the remote control of battery racks and code quality in the company, saving maintenance costs by 70%.
+- • Improved the remote control of battery racks and code quality in the company by >10%
+- • Code maintenance costs saved by >70%.
 <hr>
 `05.2019-08.2019`
 Google Summer of Code '19 Student with __International Neuroinformatics Coordination Facility__
-- • Trained Machine Learning capable agents for Cognitive Science experiments. The software reduces time-to-first-plot by est. 64%.
+- • Trained Machine Learning capable agents for Cognitive Science experiments
+- • >64% less time-to-first-plot
 <hr>
 `01.2018-09.2020`
 Assistant Researcher at the __Chair for Computational Molecular Medicine__, TUM
-- • Applied statistical models to clinical data with R/knitr to investigate disease details, worked on new niches for bioinformatics analysis. Bioinformatic models significantly speed up biological discovery.
+- • Statistical models for clinical data with R/knitr to investigate disease details, saving >2k€ each diagnosis
+- • New niches for bioinformatics analysis - e.g. phage therapy, addressing US $2 billion antibiotics resistance burden
 <hr>
 `05.2017-08.2017`
 Google Summer of Code with __European Bioinformatics Institute, EMBL__, Cambrige, UK
@@ -53,11 +60,13 @@ Google Summer of Code with __European Bioinformatics Institute, EMBL__, Cambrige
 <hr>
 `01.2017-08.2017`	 
 Student Developer at __Omikron Data Quality GmbH__ 
-- • Website and backend JavaScript database SRM maintenance. My role helped to achieve a more useable website, and 0,02% boilerplate code reduction.
+- • Website and backend JavaScript database SRM maintenance
+- • More useable website, and 0,02% boilerplate code reduction.
  <hr>
 `10.2016-11.2016`	
 Junior Project Manager at __Deutsche Payment GmbH (Berlin)__ 
-- • Hands-on project manager training and cross-departmental communication. I have saved 30k€ with combination of seniority and efficiency.
+- • Hands-on project manager training and cross-departmental communication
+- • Saved >30k€ with my combination of seniority and efficiency.
 
 <hr>
 

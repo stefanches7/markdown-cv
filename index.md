@@ -51,7 +51,7 @@ __Assistant Researcher | Chair for Computational Molecular Medicine, TUM__
 <hr>
 
 `05.2017-08.2017` 
-__ Google Summer of Code|European Bioinformatics Institute, EMBL, Cambrige, UK__
+__Google Summer of Code|European Bioinformatics Institute, EMBL, Cambrige, UK__
 - • Accelerated file search with a SpringBoot/React.js web server by 153% for ca. 63 millions daily web requests.
 <hr>
 

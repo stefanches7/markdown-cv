@@ -40,7 +40,7 @@ __IT Architecture Developer | STABL GmbH__
 - • Slashed code maintenance costs by >70%
 <hr>
 `05.2019-08.2019`
-__Google Summer of Code '19 Student | International Neuroinformatics Coordination Facility__
+__Google Summer of Code | International Neuroinformatics Coordination Facility__
 - • Trained Machine Learning capable agents for Cognitive Science experiments
 - • >64% less time-to-first-plot
 <hr>

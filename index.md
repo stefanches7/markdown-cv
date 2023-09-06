@@ -22,49 +22,55 @@ Version Control: Git <br>
 Software Development Practices: SCRUM, Agile <br>
 Machine Learning  <br>
 Teamwork
+
 ## Work experience
 
 <hr>
 Neuroscience Application Developer | Georgia State University, USA | August 2022 - November 2022
 - • Conducted simulation runs with MATLAB on HPC and documented group fMRI analysis to streamline user acquisition.
 <hr>
+
 Computational Neuroscientist | Aston University, UK | July 2022 - August 2022
-
 - • Mathematically modified Transfer Entropy measurements using Julia to eliminate bias.
-<hr>
-Data Analyst | PainLab Munich | August 2021 - June 2022
 
+<hr>
+
+Data Analyst | PainLab Munich | August 2021 - June 2022
 - • Developed an EEG Machine Learning algorithm to predict Chronic Pain using MATLAB.
+
 <hr>
 Application Engineer | Mentalab | April 2021 - July 2021
-
 - • Created Brain-Computer Interface (BCI) tasks like Motor Imagery for EEG device applications using MATLAB.
-<hr>
-IT Architecture Developer | STABL GmbH | October 2020 - March 2021
 
+<hr>
+
+IT Architecture Developer | STABL GmbH | October 2020 - March 2021
 - • Improved remote battery rack control with JavaScript and enhanced code quality using SonarQube/Docker
 - • 70% reduction in maintenance costs.
+
 <hr>
+
 Google Summer of Code '19 Student | International Neuroinformatics Coordination Facility | May 2019 - August 2019
-
 - • Trained Machine Learning capable agents for Cognitive Science experiments using Java/Kotlin.
-<hr>
-Assistant Researcher | Chair for Computational Biology, TUM | January 2018 - September 2020
 
+<hr>
+
+Assistant Researcher | Chair for Computational Biology, TUM | January 2018 - September 2020
 - • Conducted sequencing data analysis and quality control with Python, developed ML models, and explored new scientific niches.
 
 <hr>
+
 Google Summer of Code | European Bioinformatics Institute, EMBL, Cambridge, UK | May 2017 - August 2017
-
 - • Accelerated file search by 153% for approximately 63 million daily web requests using a SpringBoot/React.js server.
-<hr>
-Student Developer | Omikron Data Quality GmbH | January 2017 - August 2017
 
+<hr>
+
+Student Developer | Omikron Data Quality GmbH | January 2017 - August 2017
 - • Maintained front-end website and backend Java+GWT database SRM.
 
 <hr>
-Junior Project Manager | Deutsche Payment GmbH (Berlin) | October 2016 - November 2016
 
+Junior Project Manager | Deutsche Payment GmbH (Berlin) | October 2016 - November 2016
 - • Gained hands-on project management experience and facilitated cross-country communication, resulting in cost savings of over €30,000.
 
 <hr>

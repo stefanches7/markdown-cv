@@ -20,52 +20,51 @@ Back-End Development: Java, Python, Perl <br>
 Database: SQL (PostgreSQL, MySQL) <br>
 Version Control: Git <br>
 Software Development Practices: SCRUM, Agile <br>
-Machine Learning
+Machine Learning  <br>
 Teamwork
 ## Work experience
 
-`08.2022-11.2022`	
-__Neuroscience Application Developer | Georgia State University, USA__
+<hr>
+Neuroscience Application Developer | Georgia State University, USA | August 2022 - November 2022
 - • Conducted simulation runs with MATLAB on HPC and documented group fMRI analysis to streamline user acquisition.
 <hr>
+Computational Neuroscientist | Aston University, UK | July 2022 - August 2022
 
-  `07.2022-08.2022`	
-__ Computational Neuroscientist | Aston University, UK __
 - • Mathematically modified Transfer Entropy measurements using Julia to eliminate bias.
-  
 <hr>
-`08.2021-06.2022`
-Data Analyst at PainLab Munich
-- • Developed a biomarker Machine Learning algorithm to predict Chronic Pain using MATLAB.
+Data Analyst | PainLab Munich | August 2021 - June 2022
+
+- • Developed an EEG Machine Learning algorithm to predict Chronic Pain using MATLAB.
 <hr>
-`04.2021-07.2021`
-Application Engineer at __Mentalab__
--  • Created Brain-Computer Interface tasks like Motor Imagery using MATLAB.
+Application Engineer | Mentalab | April 2021 - July 2021
+
+- • Created Brain-Computer Interface (BCI) tasks like Motor Imagery for EEG device applications using MATLAB.
 <hr>
-`10.2020-03.2021`
-IT Architecture Developer at __STABL GmbH__
--  • Improved remote battery rack control with JavaScript and enhanced code quality using SonarQube/Docker
-- • >70% reduction in code maintenance costs.
+IT Architecture Developer | STABL GmbH | October 2020 - March 2021
+
+- • Improved remote battery rack control with JavaScript and enhanced code quality using SonarQube/Docker
+- • 70% reduction in maintenance costs.
 <hr>
-`05.2019-08.2019`
-Google Summer of Code '19 Student with __International Neuroinformatics Coordination Facility__
+Google Summer of Code '19 Student | International Neuroinformatics Coordination Facility | May 2019 - August 2019
+
 - • Trained Machine Learning capable agents for Cognitive Science experiments using Java/Kotlin.
 <hr>
-`01.2018-09.2020`
-Assistant Researcher at the __Chair for Computational Biology__, TUM
-- • Conducted sequencing data analysis and quality control with Python
-- • Explored phage therapy bioinformatics, addressing US 2 billion $ antibiotic resistance burden
+Assistant Researcher | Chair for Computational Biology, TUM | January 2018 - September 2020
+
+- • Conducted sequencing data analysis and quality control with Python, developed ML models, and explored new scientific niches.
+
 <hr>
-`05.2017-08.2017`
-Google Summer of Code with __European Bioinformatics Institute, EMBL__, Cambrige, UK
-- • Accelerated file search by 153% for approximately 63 million daily web requests using a SpringBoot/React.js server
+Google Summer of Code | European Bioinformatics Institute, EMBL, Cambridge, UK | May 2017 - August 2017
+
+- • Accelerated file search by 153% for approximately 63 million daily web requests using a SpringBoot/React.js server.
 <hr>
-`01.2017-08.2017`	 
-Student Developer at __Omikron Data Quality GmbH__ 
-- • Maintained the front-end website and backend Java+GWT database SRM. 
- <hr>
-`10.2016-11.2016`	
-Junior Project Manager at __Deutsche Payment GmbH (Berlin)__ 
+Student Developer | Omikron Data Quality GmbH | January 2017 - August 2017
+
+- • Maintained front-end website and backend Java+GWT database SRM.
+
+<hr>
+Junior Project Manager | Deutsche Payment GmbH (Berlin) | October 2016 - November 2016
+
 - • Gained hands-on project management experience and facilitated cross-country communication, resulting in cost savings of over €30,000.
 
 <hr>

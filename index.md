@@ -21,15 +21,15 @@ Statistical Modelling, Java (3 years), Python (3 years), Javascript (2 years), J
 
 `08.2022-11.2022`	
 Neuroscience Application Developer placement at <br> __Georgia State University, USA__ 
-- • Group ICA runs and documentation of the analysis to get users 3x more effectively. This software helps to cure neurological diseases worldwide, a burden US 1,7$ a year.
+- • Group ICA runs and documentation of the analysis to get users 3x more effectively. This software helps to cure neurological diseases worldwide, a burden worth US 1,7 trillion $ a year.
 <hr>
 `07.2022-08.2022`	
 Computational Neuroscientist placement at <br> __Aston University, UK__ 
-- • Improved network connectivity measurement to increase accuracy to 70%.
+- • Improved network connectivity measurements to reduce bias more than 3-fold. This allows for a smoother network model, saving >30k€ on each experiment.
 <hr>
 `08.2021-06.2022`
 Data Analyst at __PainLab Munich__
-- • Analyzed EEG biomarkers of Chronic Pain to reduce up to 85% manual processing costs.
+- • Analyzed digital biomarkers of Chronic Pain to reduce up to 85% manual processing costs. Automated diagnosis is also at least 3x faster.
 <hr>
 `04.2021-07.2021`
 Application Engineer at __Mentalab__

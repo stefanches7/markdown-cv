@@ -16,43 +16,29 @@ Experienced and results-driven Machine Learning Engineer with a strong backgroun
  </div>
 ## Skills
 
-Statistical Modeling
-Python (3 years)
-Java (3 years)
-Keras (2 years)
-Julia (2 years)
-JavaScript (2 years)
-R (2 years)
-SQL
-Git
-Bash
-SCRUM
-Sequencing Data Analysis
-Computational Modeling in Life Sciences
-Communication
-Teamwork
+Machine Learning, Statistical Modeling, Python (3 years), Java (3 years), Keras (2 years), Julia (2 years), JavaScript (2 years), R (2 years), SQL, Git, Bash, SCRUM, Sequencing Data Analysis, Computational Modeling in Life Sciences, Communication, Teamwork
 
 ## Work experience
 
 `08.2022-11.2022`	
 __Neuroinformatic Application Developer| Georgia State University, USA__ 
 - • Led group ICA runs and documentation for 3x more effective user onboarding
-- • Help to cure neurological diseases burden worth US 1,7 trillion $ a year.
+- • Help to cure neurological diseases burden worth US 1,7 trillion $ a year
 <hr>
 `08.2021-06.2022`
 __Data Scientist | PainLab Munich__
 - • Develop digital biomarkers of Chronic Pain to reduce up to 85% manual processing costs
-- • Automated diagnosis is also at least 3x faster.
+- • Automated diagnosis is also at least 3x faster
 <hr>
 `04.2021-07.2021`
 __Application Engineer | Mentalab__
-- • Developed brain-computer interface use cases to advertise the product.
-- • Accelerated user conversion rates by >10%.
+- • Developed brain-computer interface use cases to advertise the product
+- • Accelerated user conversion rates by >10%
 <hr>
 `10.2020-03.2021`
 __IT Architecture Developer | STABL GmbH__
 - • Improved the remote control of battery racks and code quality in the company by >10%
-- • Slashed code maintenance costs by >70%.
+- • Slashed code maintenance costs by >70%
 <hr>
 `05.2019-08.2019`
 __Google Summer of Code '19 Student | International Neuroinformatics Coordination Facility__
@@ -62,7 +48,7 @@ __Google Summer of Code '19 Student | International Neuroinformatics Coordinatio
 `01.2018-09.2020`
 __Assistant Researcher | Chair for Computational Molecular Medicine, TUM__
 - • Developed tatistical models for clinical data with R/knitr, saving over 2000€ per diagnosis
-- • Pioneered bioinformatics analysis in niche areas, such as phage therapy, addressing a $2 billion antibiotics resistance burden.
+- • Pioneered bioinformatics analysis in niche areas, such as phage therapy, addressing a $2 billion antibiotics resistance burden
 <hr>
 
 ## Education
@@ -70,12 +56,12 @@ __Assistant Researcher | Chair for Computational Molecular Medicine, TUM__
 `10.2017-09.2020`
 __B.Sc. Bioinformatics__ at the TU Munich/LMU Munich <br> (joint study program)
 - • Average grade: __1,9__ (best – 1,0; worst – 5,0)
-- • Thesis: SARS-CoV-2 variants in RNASeq data. The developed pipeline helped investigate communal infection in hospitals.
+- • Thesis: SARS-CoV-2 variants in RNASeq data, facilitating the investigation of communal infection in hospitals.
 <hr>
 `10.2020-09.2023`
 __Elite M. Sc. Neuroengineering__ in Elite Network of Bavaria,<br> __TU Munich__
 - • Average grade: __2,2__ (best – 1,0; worst – 5,0)
-- • Thesis: SNN model of in vitro 2D neuronal networks. This model saves up to 60k€ per experiment through computer simulation.
+- • Thesis: SNN model of in vitro 2D neuronal networks, saving up to €60,000 per experiment through computer simulation.
 
 ## Publications
 

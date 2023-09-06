@@ -15,7 +15,7 @@ title: Stefan Dvoretskii CV
  </div>
 ## Skills
 
-Machine Learning, Statistical Modeling, Python (3 years), Java (3 years), Keras (2 years), Julia (2 years), JavaScript (2 years), R (2 years), SQL, Git, Bash, SCRUM, Sequencing Data Analysis, Computational Modeling in Life Sciences, Communication, Teamwork
+Machine Learning, Statistical Modeling, Python (3 years), Java (3 years), Keras (2 years), Julia (2 years), JavaScript (2 years), R (2 years), HTML/CSS, SQL, Git, Bash, SCRUM, Sequencing Data Analysis, Computational Modeling in Life Sciences, Communication, Teamwork
 
 ## Work experience
 
@@ -49,6 +49,15 @@ __Assistant Researcher | Chair for Computational Molecular Medicine, TUM__
 - • Developed tatistical models for clinical data with R/knitr, saving over 2000€ per diagnosis
 - • Pioneered bioinformatics analysis in niche areas, such as phage therapy, addressing a $2 billion antibiotics resistance burden
 <hr>
+
+`05.2017-08.2017` 
+__ Google Summer of Code|European Bioinformatics Institute, EMBL, Cambrige, UK__
+- • Accelerated file search with a SpringBoot/React.js web server by 153% for ca. 63 millions daily web requests.
+<hr>
+
+`01.2017-08.2017`
+__Software Developer|Omikron Data Quality GmbH__
+- • Maintained the front-end website and backend Java+GWT database SRM.
 
 ## Education
 

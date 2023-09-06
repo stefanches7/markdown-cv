@@ -15,7 +15,7 @@ title: Stefan Dvoretskii CV
  </div>
 ## Skills
 
-Statistical Modelling, Software Development, Sequencing Data Analysis, Computational Modelling in Life Sciences, Communication, Teamwork
+Statistical Modelling, Java (3 years), Python (3 years), Javascript (2 years), Julia (2 years), C (1 year), Keras (2 years), R (2 years), Bash, SQL, Git, SCRUM, Machine Learning, Sequencing Data Analysis, Computational Modelling in Life Sciences, Communication, Teamwork
 
 ## Work experience
 

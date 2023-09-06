@@ -5,7 +5,6 @@ title: Stefan Dvoretskii CV
 <img style="float: right;width: 15vw; height:auto" src="media/my_photo.png">
 # Stefan Dvoretskii
 
-Experienced and results-driven Machine Learning Engineer with a strong background in statistical modeling and a proven track record of developing data-driven solutions. Proficient in Java, Python, JavaScript, Julia, and more, with a passion for applying machine learning techniques to solve complex problems.
 
 <div id="webaddress">
 <a href="stefan.dvoretskii@tum.de">Email: stefan.dvoretskii@tum.de</a> 
@@ -26,7 +25,7 @@ __Neuroinformatic Application Developer| Georgia State University, USA__
 - • Help to cure neurological diseases burden worth US 1,7 trillion $ a year
 <hr>
 `08.2021-06.2022`
-__Data Scientist | PainLab Munich__
+__Data Scientist | PainLab Munich, Klinikum rechts der Isar__
 - • Develop digital biomarkers of Chronic Pain to reduce up to 85% manual processing costs
 - • Automated diagnosis is also at least 3x faster
 <hr>

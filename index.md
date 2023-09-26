@@ -10,6 +10,7 @@ Location: Munich, Germany
 <a href="stefan.dvoretskii@tum.de">Email: stefan.dvoretskii@tum.de</a> 
   <br>
   Phone: +4591463375
+  <br>
 <a href="https://www.linkedin.com/in/stefan-dvoretskii-03b183131/">LinkedIn: https://www.linkedin.com/in/stefan-dvoretskii-03b183131/</a>
   <br> 
   <a href="https://github.com/stefanches7">GitHub: stefanches7</a>
@@ -21,8 +22,8 @@ Machine Learning, Statistical Modeling, Python (3 years), Java (3 years), Keras 
 ## Work experience
 
 `08.2022-11.2022`	
-__Neuroinformatic Application Developer| Georgia State University, USA__ 
-- • Led group ICA runs and documentation for 3x more effective user onboarding
+__Machine Learning Application Developer | Georgia State University, USA__ 
+- • Performed group ICA runs and documentation for 3x more effective user onboarding
 - • Help to cure neurological diseases burden worth US 1,7 trillion $ a year
 <hr>
 `08.2021-06.2022`
@@ -41,7 +42,7 @@ __IT Architecture Developer | STABL GmbH__
 - • Slashed code maintenance costs by >70%
 <hr>
 `05.2019-08.2019`
-__Google Summer of Code | International Neuroinformatics Coordination Facility__
+__ML Simulation Developer | International Neuroinformatics Coordination Facility__
 - • Trained Machine Learning capable agents for Cognitive Science experiments
 - • >64% less time-to-first-plot
 <hr>
@@ -52,13 +53,13 @@ __Assistant Researcher | Chair for Computational Molecular Medicine, TUM__
 <hr>
 
 `05.2017-08.2017` 
-__Google Summer of Code|EMBL, Cambrige, UK__
+__Web Server Architect | EMBL, Cambrige, UK__
 - • Accelerated file search with a SpringBoot/React.js web server by 153%
 - • Project's services handle 63 millions daily web requests.
 <hr>
 
 `01.2017-08.2017`
-__Software Developer|Omikron Data Quality GmbH__
+__Software Developer | Omikron Data Quality GmbH__
 - • Maintained the front-end website and backend Java+GWT database SRM.
 
 ## Education

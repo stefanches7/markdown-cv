@@ -17,7 +17,7 @@ Location: Munich, Germany
  </div>
 ## Skills
 
-Machine Learning, Statistical Modeling, Python (3 years), Java (3 years), Keras (2 years), Julia (2 years), JavaScript (2 years), R (2 years), HTML/CSS, SQL, Git, Bash, SCRUM, Sequencing Data Analysis, Computational Modeling in Life Sciences, Communication, Teamwork
+Machine Learning, Software Engineering, Statistical Modeling, Python (3 years), Java (3 years), Keras (2 years), Julia (2 years), JavaScript (2 years), R (2 years), HTML/CSS, SQL, Git, Bash, SCRUM, Sequencing Data Analysis, Computational Modeling in Life Sciences, Communication, Teamwork
 
 ## Work experience
 

@@ -15,47 +15,47 @@ Location: Munich, Germany
   <br> 
   <a href="https://github.com/stefanches7">GitHub: stefanches7</a>
  </div>
+
 ## Skills
 
-Machine Learning, Software Engineering, Statistical Modeling, Python (3 years), Java (3 years), Keras (2 years), Julia (2 years), JavaScript (2 years), R (2 years), HTML/CSS, SQL, Git, Bash, SCRUM, Sequencing Data Analysis, Computational Modeling in Life Sciences, Communication, Teamwork
+Data Engineering, Machine Learning, Software Engineering, Statistical Modeling, Python (3 years), Java (3 years), Keras (2 years), Julia (2 years), JavaScript (2 years), R (2 years), HTML/CSS, SQL, Git, Bash, SCRUM, Sequencing Data Analysis, Communication, Teamwork
 
 ## Work experience
 
 `08.2022-11.2022`	
 __Machine Learning Application Developer | Georgia State University, USA__ 
-- • Performed group ICA runs and documentation for 3x more effective user onboarding
-- • Help to cure neurological diseases burden worth US 1,7 trillion $ a year
+- • Performed group ICA runs and documentation for 3x more effective user onboarding.
+- • Contributed to curing neurological diseases, addressing a $1.7 trillion burden annually.
 <hr>
 `08.2021-06.2022`
 __Data Scientist | PainLab Munich, Klinikum rechts der Isar__
-- • Develop digital biomarkers of Chronic Pain to reduce up to 85% manual processing costs
-- • Automated diagnosis is also at least 3x faster
+- • Developed digital biomarkers for Chronic Pain, reducing manual processing costs by 85%.
+- • Automated diagnosis, improving efficiency by 3x.
 <hr>
 `04.2021-07.2021`
 __Application Engineer | Mentalab__
-- • Developed brain-computer interface use cases to advertise the product
-- • Accelerated user conversion rates by >10%
+- • Developed brain-computer interface use cases, increasing user conversion rates by >10%.
+- • Contributed to agile product decisions in a startup setting.
 <hr>
 `10.2020-03.2021`
 __IT Architecture Developer | STABL GmbH__
-- • Improved the remote control of battery racks and code quality in the company by >10%
-- • Slashed code maintenance costs by >70%
+- • Improved remote control of battery racks and code quality by >10%.
+- • Slashed code maintenance costs by >70%.
 <hr>
 `05.2019-08.2019`
 __ML Simulation Developer | International Neuroinformatics Coordination Facility__
-- • Trained Machine Learning capable agents for Cognitive Science experiments
-- • >64% less time-to-first-plot
+- • Trained Machine Learning capable agents for Cognitive Science experiments, reducing time-to-first-plot by >64%.
 <hr>
 `01.2018-09.2020`
 __Assistant Researcher | Chair for Computational Molecular Medicine, TUM__
-- • Developed tatistical models for clinical data with R/knitr, saving over 2000€ per diagnosis
-- • Pioneered bioinformatics analysis in niche areas, such as phage therapy, addressing a $2 billion antibiotics resistance burden
+- • Developed statistical models for clinical data with R/knitr, saving over 2000€ per diagnosis.
+- • Pioneered bioinformatics analysis in niche areas, addressing a $2 billion antibiotics resistance burden.
 <hr>
 
 `05.2017-08.2017` 
 __Web Server Architect | EMBL, Cambrige, UK__
-- • Accelerated file search with a SpringBoot/React.js web server by 153%
-- • Project's services handle 63 millions daily web requests.
+- • Accelerated file search with a SpringBoot/React.js web server by 153%.
+- • Managed services handling 63 million daily web requests.
 <hr>
 
 `01.2017-08.2017`
@@ -84,6 +84,6 @@ Bradly Alicea et al. "Developmental Embodied Agents as Meta-brain Models" DevoNN
 
 Wachutka L., Dvoretskii S., Gagneur J. et al. wBuild – build system for R reports. (in preparation)
 
-_Last updated: September 2023_
+_Last updated: October 2023_
 
 

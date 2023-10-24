@@ -21,6 +21,10 @@ Location: Munich, Germany
 Data Engineering, Machine Learning, Software Engineering, Statistical Modeling, Python (3 years), Java (3 years), Keras (2 years), Julia (2 years), JavaScript (2 years), R (2 years), HTML/CSS, SQL, Git, Bash, SCRUM, Sequencing Data Analysis, Communication, Teamwork
 
 ## Work experience
+`04.2023-10.2023`
+__Master Thesis Neuroengineering | University of Barcelona, Spain__ 
+- • Plausible SNN model of in vitro 2D neuronal networks connectivity changes
+- • Save up to €6,000 per experiment through computer simulation.
 
 `08.2022-11.2022`	
 __Machine Learning Application Developer | Georgia State University, USA__ 
@@ -72,7 +76,8 @@ __B.Sc. Bioinformatics__ at the TU Munich/LMU Munich <br> (joint study program)
 `10.2020-09.2023`
 __Elite M. Sc. Neuroengineering__ in Elite Network of Bavaria,<br> __TU Munich__
 - • Average grade: __2,2__ (best – 1,0; worst – 5,0)
-- • Thesis: SNN model of in vitro 2D neuronal networks, saving up to €60,000 per experiment through computer simulation.
+- • Thesis: SNN model of in vitro 2D neuronal networks, saving up to €6,000 per experiment through computer simulation.
+- • Stays abroad: __HKUST__, Hong Kong (Aug 2022 -Jan 2023); DTU, Denmark (Jan 2023 - June 2023); Uni Barcelona (June 2023 - Oct 2023)
 
 ## Publications
 

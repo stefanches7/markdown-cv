@@ -77,7 +77,7 @@ __B.Sc. Bioinformatics__ at the TU Munich/LMU Munich <br> (joint study program)
 __Elite M. Sc. Neuroengineering__ in Elite Network of Bavaria,<br> __TU Munich__
 - • Average grade: __2,2__ (best – 1,0; worst – 5,0)
 - • Thesis: SNN model of in vitro 2D neuronal networks, saving up to €6,000 per experiment through computer simulation.
-- • _Stays abroad_: HKUST, Hong Kong (Aug 2022 -Jan 2023); DTU, Denmark (Jan 2023 - June 2023); Uni Barcelona (June 2023 - Oct 2023)
+- • _Stays abroad_: HKUST, Hong Kong (Aug 2022 - Jan 2023); DTU, Denmark (Jan 2023 - June 2023); Uni Barcelona (June 2023 - Oct 2023)
 
 ## Publications
 

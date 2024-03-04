@@ -21,8 +21,13 @@ Location: Munich, Germany
 Data Engineering, Machine Learning, Software Engineering, Statistical Modeling, Python (3 years), Java (3 years), Keras (2 years), Julia (2 years), JavaScript (2 years), R (2 years), HTML/CSS, SQL, Git, Bash, SCRUM, Sequencing Data Analysis, Communication, Teamwork
 
 ## Work experience
+`11.2023-currently`
+__Research Data Architect | German Cancer Research Center, Heidelberg__ 
+- • Working on cutting-edge research in metadata and AI
+- • Accuracy of AI models could be improved by over 30% with the research product
+
 `04.2023-10.2023`
-__Master Thesis Neuroengineering | University of Barcelona, Spain__ 
+__Master Thesis Spiking Neural Networks | University of Barcelona, Spain__ 
 - • Plausible SNN model of in vitro 2D neuronal networks connectivity changes
 - • Save up to €6,000 per experiment through computer simulation.
 
@@ -83,12 +88,12 @@ __Elite M. Sc. Neuroengineering__ in Elite Network of Bavaria,<br> __TU Munich__
 
 __Dvoretskii Stefan et al.__ "Braitenberg vehicles as developmental neurosimulation." Artificial Life 28.3 (2022): 369-395.
 
-Elisabeth Esser et al. "Genomic Footprinting to Decipher In-Hospital SARS-CoV-2 Transmission Events" (submitted)
+Elisabeth Esser et al. "Genomic Footprinting to Decipher In-Hospital SARS-CoV-2 Transmission Events" (accepted)
 
 Bradly Alicea et al. "Developmental Embodied Agents as Meta-brain Models" DevoNN Workshop, 2020
 
 Wachutka L., Dvoretskii S., Gagneur J. et al. wBuild – build system for R reports. (in preparation)
 
-_Last updated: October 2023_
+_Last updated: March 2024_
 
 

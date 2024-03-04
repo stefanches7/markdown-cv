@@ -5,7 +5,7 @@ title: Stefan Dvoretskii CV
 
 # Stefan Dvoretskii
 
-Location: Munich, Germany
+Location: Heidelberg, Germany
 <div id="webaddress">
 <a href="stefan.dvoretskii@tum.de">Email: stefan.dvoretskii@tum.de</a> 
   <br>

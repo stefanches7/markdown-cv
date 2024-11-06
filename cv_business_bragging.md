@@ -88,11 +88,11 @@ __Elite M. Sc. Neuroengineering__ in Elite Network of Bavaria,<br> __TU Munich__
 
 __Dvoretskii Stefan et al.__ "Braitenberg vehicles as developmental neurosimulation." Artificial Life 28.3 (2022): 369-395.
 
-Elisabeth Esser et al. "Genomic Footprinting to Decipher In-Hospital SARS-CoV-2 Transmission Events" (accepted)
+Esser, E., Schulte, E. C., Graf, A., Karollus, A., Smith, N. H., Michler, T.,__Dvoretskii, S.__, ... & Protzer, U. (2024). Viral genome sequencing to decipher in-hospital SARS-CoV-2 transmission events. Scientific Reports, 14(1), 5768.
 
 Bradly Alicea et al. "Developmental Embodied Agents as Meta-brain Models" DevoNN Workshop, 2020
 
-Wachutka L., Dvoretskii S., Gagneur J. et al. wBuild – build system for R reports. (in preparation)
+Wachutka L., __Dvoretskii S.__, Gagneur J. et al. wBuild – build system for R reports. (in preparation)
 
 _Last updated: March 2024_
 

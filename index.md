@@ -57,19 +57,20 @@ __ML Simulation Developer | International <br> Neuroinformatics Coordination Fac
 <hr>
 `01.2018-09.2020`
 __Assistant Researcher | Chair for Computational Molecular Medicine, TUM__
-# - • Developed statistical models for clinical data with R/knitr, saving over 2000€ per diagnosis.
-# - • Pioneered bioinformatics analysis in niche areas, addressing a $2 billion antibiotics resistance burden.
+<!-- - • Developed statistical models for clinical data with R/knitr, saving over 2000€ per diagnosis. -->
+ - • Pioneered bioinformatics analysis in niche areas, addressing a $2 billion antibiotics resistance burden.
 <hr>
 
-#`05.2017-08.2017` 
-#__Web Server Architect | EMBL, Cambrige, UK__
-#- • Accelerated file search with a SpringBoot/React.js web server by 153%.
-#- • Managed services handling 63 million daily web requests.
-#<hr>
-
-#`01.2017-08.2017`
-#__Software Developer | Omikron Data Quality GmbH__
-#- • Maintained the front-end website and backend Java+GWT database SRM.
+<!--
+`05.2017-08.2017` 
+__Web Server Architect | EMBL, Cambrige, UK__
+- • Accelerated file search with a SpringBoot/React.js web server by 153%.
+- • Managed services handling 63 million daily web requests.
+<hr>
+`01.2017-08.2017`
+__Software Developer | Omikron Data Quality GmbH__
+- • Maintained the front-end website and backend Java+GWT database SRM.
+-->
 
 ## Education
 `10.2020-09.2023`

@@ -22,7 +22,7 @@ Large Language Models, Metadata, Data Engineering, Machine Learning, Software En
 
 ## Work experience
 `12.2023-currently`
-__Research Data Architect | German Cancer Research Center, Heidelberg__ 
+__Research Data Architect | German Cancer Research <br> Center (DKFZ), Heidelberg__ 
 - • Working on cutting-edge research in metadata and AI
 - • Accuracy of AI models could be improved by over 30% with the research product
 
@@ -52,30 +52,30 @@ __IT Architecture Developer | STABL GmbH__
 - • Slashed code maintenance costs by >70%.
 <hr>
 `05.2019-08.2019`
-__ML Simulation Developer | International Neuroinformatics Coordination Facility__
+__ML Simulation Developer | International <br> Neuroinformatics Coordination Facility__
 - • Trained Machine Learning capable agents for Cognitive Science experiments, reducing time-to-first-plot by >64%.
 <hr>
 `01.2018-09.2020`
 __Assistant Researcher | Chair for Computational Molecular Medicine, TUM__
-- • Developed statistical models for clinical data with R/knitr, saving over 2000€ per diagnosis.
-- • Pioneered bioinformatics analysis in niche areas, addressing a $2 billion antibiotics resistance burden.
+# - • Developed statistical models for clinical data with R/knitr, saving over 2000€ per diagnosis.
+# - • Pioneered bioinformatics analysis in niche areas, addressing a $2 billion antibiotics resistance burden.
 <hr>
 
-`05.2017-08.2017` 
-__Web Server Architect | EMBL, Cambrige, UK__
-- • Accelerated file search with a SpringBoot/React.js web server by 153%.
-- • Managed services handling 63 million daily web requests.
-<hr>
+#`05.2017-08.2017` 
+#__Web Server Architect | EMBL, Cambrige, UK__
+#- • Accelerated file search with a SpringBoot/React.js web server by 153%.
+#- • Managed services handling 63 million daily web requests.
+#<hr>
 
-`01.2017-08.2017`
-__Software Developer | Omikron Data Quality GmbH__
-- • Maintained the front-end website and backend Java+GWT database SRM.
+#`01.2017-08.2017`
+#__Software Developer | Omikron Data Quality GmbH__
+#- • Maintained the front-end website and backend Java+GWT database SRM.
 
 ## Education
 `10.2020-09.2023`
 __Elite M. Sc. Neuroengineering__ in Elite Network of Bavaria,<br> __TU Munich__
 - • Average grade: __2,2__ (best – 1,0; worst – 5,0)
-- • Thesis: SNN model of in vitro 2D neuronal networks, saving up to €6,000 per experiment through computer simulation.
+- • Thesis: SNN model of in vitro 2D neuronal networks, saving <br> up to €6,000 per experiment through computer simulation.
 - • _Stays abroad_: HKUST, Hong Kong (Aug 2022 - Jan 2023); DTU, Denmark (Jan 2023 - June 2023); Uni Barcelona (June 2023 - Oct 2023)
 <hr>
 `10.2017-09.2020`
@@ -96,18 +96,18 @@ AGV Academic Choral Society, Munich
 
 ## Publications
 
-**Dvoretskii, S.**, Josh, M., Schader, P., Kulla, L., & Nolden, M. (2024). How to make Biomedical Imaging Datasets AI-ready?. HMC Conference 2024, HMC Gather.Town. Zenodo. https://doi.org/10.5281/zenodo.14041301
-
-**Dvoretskii, S.** (2024). Insights from Acquiring Open Medical Imaging Datasets for Foundation Model Development. Munich Health Foundation Models Symposium, Helmholtz Center Munich, Munich, Germany. Zenodo. https://doi.org/10.5281/zenodo.11503289
-
+**Dvoretskii, S.**, Josh, M., Schader, P., Kulla, L., & Nolden, M. (2024). How to make Biomedical Imaging Datasets AI-ready?. HMC Conference 2024. https://doi.org/10.5281/zenodo.14041301
+<hr>
+**Dvoretskii, S.** (2024). Insights from Acquiring Open Medical Imaging Datasets for Foundation Model Development. Munich Health Foundation Models Symposium, Helmholtz Center Munich, Munich, Germany. https://doi.org/10.5281/zenodo.11503289
+<hr>
 __Dvoretskii Stefan et al.__ "Braitenberg vehicles as developmental neurosimulation." Artificial Life 28.3 (2022): 369-395.
-
+<hr>
 Esser, E., Schulte, E. C., Graf, A., Karollus, A., Smith, N. H., Michler, T.,__Dvoretskii, S.__, ... & Protzer, U. (2024). Viral genome sequencing to decipher in-hospital SARS-CoV-2 transmission events. Scientific Reports, 14(1), 5768.
-
+<hr>
 Bradly Alicea et al. "Developmental Embodied Agents as Meta-brain Models" DevoNN Workshop, 2020
-
+<hr>
 Wachutka L., __Dvoretskii S.__, Gagneur J. et al. wBuild – build system for R reports. (in preparation)
-
+<hr>
 _Last updated: November 2024_
 
 

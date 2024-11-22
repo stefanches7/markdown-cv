@@ -18,10 +18,10 @@ Location: Heidelberg, Germany
 
 ## Skills
 
-Data Engineering, Machine Learning, Software Engineering, Statistical Modeling, Python (3 years), Java (3 years), Keras (2 years), Julia (2 years), JavaScript (2 years), R (2 years), HTML/CSS, SQL, Git, Bash, SCRUM, Sequencing Data Analysis, Communication, Teamwork
+Large Language Models, Metadata, Data Engineering, Machine Learning, Software Engineering, Statistical Modeling, Python (3 years), Java (3 years), Keras (2 years), Julia (2 years), JavaScript (2 years), R (2 years), HTML/CSS, SQL, Git, Bash, SCRUM, Sequencing Data Analysis, Communication, Teamwork
 
 ## Work experience
-`11.2023-currently`
+`12.2023-currently`
 __Research Data Architect | German Cancer Research Center, Heidelberg__ 
 - • Working on cutting-edge research in metadata and AI
 - • Accuracy of AI models could be improved by over 30% with the research product
@@ -72,19 +72,33 @@ __Software Developer | Omikron Data Quality GmbH__
 - • Maintained the front-end website and backend Java+GWT database SRM.
 
 ## Education
-
-`10.2017-09.2020`
-__B.Sc. Bioinformatics__ at the TU Munich/LMU Munich <br> (joint study program)
-- • Average grade: __1,9__ (best – 1,0; worst – 5,0)
-- • Thesis: SARS-CoV-2 variants in RNASeq data, facilitating the investigation of communal infection in hospitals.
-<hr>
 `10.2020-09.2023`
 __Elite M. Sc. Neuroengineering__ in Elite Network of Bavaria,<br> __TU Munich__
 - • Average grade: __2,2__ (best – 1,0; worst – 5,0)
 - • Thesis: SNN model of in vitro 2D neuronal networks, saving up to €6,000 per experiment through computer simulation.
 - • _Stays abroad_: HKUST, Hong Kong (Aug 2022 - Jan 2023); DTU, Denmark (Jan 2023 - June 2023); Uni Barcelona (June 2023 - Oct 2023)
+<hr>
+`10.2017-09.2020`
+__B.Sc. Bioinformatics__ at the TU Munich/LMU Munich <br> (joint study program)
+- • Average grade: __1,9__ (best – 1,0; worst – 5,0)
+- • Thesis: SARS-CoV-2 variants in RNASeq data, facilitating the investigation of communal infection in hospitals.
+
+## Engagement
+
+`Collaborator`	
+__NeuroSim__ interests group, Orthogonal Research and Education Lab
+- ◦	Cognitive Science, AI, Neurobiology and Computation
+
+`Member`	
+AGV Academic Choral Society, Munich
+- ◦	Choir & orchestra (violin), event organization, cultural activities
+
 
 ## Publications
+
+**Dvoretskii, S.**, Josh, M., Schader, P., Kulla, L., & Nolden, M. (2024). How to make Biomedical Imaging Datasets AI-ready?. HMC Conference 2024, HMC Gather.Town. Zenodo. https://doi.org/10.5281/zenodo.14041301
+
+**Dvoretskii, S.** (2024). Insights from Acquiring Open Medical Imaging Datasets for Foundation Model Development. Munich Health Foundation Models Symposium, Helmholtz Center Munich, Munich, Germany. Zenodo. https://doi.org/10.5281/zenodo.11503289
 
 __Dvoretskii Stefan et al.__ "Braitenberg vehicles as developmental neurosimulation." Artificial Life 28.3 (2022): 369-395.
 
@@ -94,6 +108,6 @@ Bradly Alicea et al. "Developmental Embodied Agents as Meta-brain Models" DevoNN
 
 Wachutka L., __Dvoretskii S.__, Gagneur J. et al. wBuild – build system for R reports. (in preparation)
 
-_Last updated: March 2024_
+_Last updated: November 2024_
 
 

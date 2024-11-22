@@ -19,7 +19,7 @@ Location: Heidelberg, Germany
  
 ### Research Interests
 
-Organoid Intelligence, Neuroengineering, Computational Biology, Bioinformatics, Computational Modelling, Dynamical Systems, Science Communication, International Collaboration
+Large Language Models, Machine-actionable Datasets, Organoid Intelligence, Neuroengineering, Computational Biology, Bioinformatics, Computational Modelling, Dynamical Systems, Science Communication, International Collaboration
 
 ## Work experience
 
@@ -150,6 +150,10 @@ AGV Academic Choral Society, Munich
 - ◦	Choir & orchestra (violin), event organization, cultural activities
 
 ## Publications
+
+**Dvoretskii, S.**, Josh, M., Schader, P., Kulla, L., & Nolden, M. (2024). How to make Biomedical Imaging Datasets AI-ready?. HMC Conference 2024, HMC Gather.Town. Zenodo. https://doi.org/10.5281/zenodo.14041301
+
+**Dvoretskii, S.** (2024). Insights from Acquiring Open Medical Imaging Datasets for Foundation Model Development. Munich Health Foundation Models Symposium, Helmholtz Center Munich, Munich, Germany. Zenodo. https://doi.org/10.5281/zenodo.11503289
 
 __Dvoretskii Stefan et al.__ "Braitenberg vehicles as developmental neurosimulation." Artificial Life 28.3 (2022): 369-395.
 

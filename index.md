@@ -152,9 +152,16 @@ AGV Academic Choral Society, Munich
 
 ## Publications
 
+**Dvoretskii, S.** (2024, November 25). FAIR data and FAIR assessment. Zenodo. https://doi.org/10.5281/zenodo.14217529
+
+B Alicea, R Chakrabarty, **S Dvoretskii**, A Gopi, A Lim, and J Parent. Continual Developmental Neurosimulation Using Embodied
+Computational Agents. EI-2023 Conference Proceedings (in publication)
+
 **Dvoretskii, S.**, Josh, M., Schader, P., Kulla, L., & Nolden, M. (2024). How to make Biomedical Imaging Datasets AI-ready?. HMC Conference 2024, HMC Gather.Town. Zenodo. https://doi.org/10.5281/zenodo.14041301
 
 **Dvoretskii, S.** (2024). Insights from Acquiring Open Medical Imaging Datasets for Foundation Model Development. Munich Health Foundation Models Symposium, Helmholtz Center Munich, Munich, Germany. Zenodo. https://doi.org/10.5281/zenodo.11503289
+
+**Dvoretskii, S.**, Soriano Fradera, J., Houben, A. M., Haeb, A.-C., Universitat de Barcelona, & Erasmus+. (2024). Exploring Plasticity Rules in the Biologically Realistic Simulation of Neuronal Cultures [Zenodo]. FENS 2024: FENS BIOCOMPUTING, Vienna, Austria. https://doi.org/10.5281/zenodo.14258346
 
 **Dvoretskii, S.**, Gong, Z., Gupta, A., Parent, J., & Alicea, B. (2022). Braitenberg vehicles as developmental neurosimulation. Artificial Life, 28(3), 369-395.
 

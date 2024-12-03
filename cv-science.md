@@ -104,40 +104,41 @@ __B.Sc. Bioinformatics__ at the TU Munich/LMU Munich <br> (joint study program)
 <hr>
 
 
-## Awards & Fellowships
+## Grants
 
-`School exchange`	 
-__Woodbridge School__, Woodbridge, Suffolk, Great Britain
+`Fellowship`
+Helmholtz Enterprise Field Study Fellowship, Fall 2024 - 22,755€
 
-`Fellowship`	
-Motivation stipend of the __TU Berlin__, 09.2016 - 07.2017 - 3000€
+`Exchange`
+__Erasmus+__ SMP, June 2023-Oct 2023 - University of Barcelona, Spain
 
-`Fellowship`	
-Student Stipend for __Google__ Summer of Code participants, Summer 2017 - 6000$
- 
-`Fellowship`	
-__BayBIDS__ motivation stipend, 11.2017-10.2018 - 3300€
+`Exchange`
+__Erasmus+__ mobility, Spring 2023 - Technical University of Denmark, Copenhagen
+
+`Exchange`
+Hong Kong University of Science and Technology, Fall 2022 - Supported by BayCHINA
+
+`Fellowship`
+__INCF & Mathworks__ Summer of Code project, 07.2022-10.2022 - 3000$
 
 `Fellowship`
 __Hans-Rudolf__-Stiftung, 10.2018-10.2023 - 10500€
 
 `Fellowship`
-Stipend for __Google__ Summer of Code participants, Summer 2019 - 4600$
+__Google__ Summer of Code project, Summer 2019 - 4600$
 
-`Fellowship`
-__INCF & Mathworks__ Summer of Code participants, 07.2022-10.2022 - 3000$
+`Fellowship`	
+__BayBIDS__ motivation stipend, 11.2017-10.2018 - 3300€
 
-`Exchange`
-Hong Kong University of Science and Technology, Fall 2022
+`Fellowship`	
+__Google__ Summer of Code project, Summer 2017 - 6000$
 
-`Fellowship`
-BayCHINA, Bavarian-Chinese mobility fellowship, Fall 2022 - 1200€
+`Fellowship`	
+Motivation stipend of the __TU Berlin__, 09.2016 - 07.2017 - 3000€
 
-`Exchange`
-Technical University of Denmark, Copenhagen, Spring 2023
+`School exchange`	 
+__Woodbridge School__, Woodbridge, Suffolk, Great Britain
 
-`Fellowship`
-__Erasmus+__ mobility, Spring 2023 - 3400€
 
 ## Engagement
 
@@ -155,7 +156,7 @@ AGV Academic Choral Society, Munich
 
 **Dvoretskii, S.** (2024). Insights from Acquiring Open Medical Imaging Datasets for Foundation Model Development. Munich Health Foundation Models Symposium, Helmholtz Center Munich, Munich, Germany. Zenodo. https://doi.org/10.5281/zenodo.11503289
 
-__Dvoretskii Stefan et al.__ "Braitenberg vehicles as developmental neurosimulation." Artificial Life 28.3 (2022): 369-395.
+**Dvoretskii, S.**, Gong, Z., Gupta, A., Parent, J., & Alicea, B. (2022). Braitenberg vehicles as developmental neurosimulation. Artificial Life, 28(3), 369-395.
 
 Esser, E., Schulte, E. C., Graf, A., Karollus, A., Smith, N. H., Michler, T.,__Dvoretskii, S.__, ... & Protzer, U. (2024). Viral genome sequencing to decipher in-hospital SARS-CoV-2 transmission events. Scientific Reports, 14(1), 5768.
 
@@ -165,6 +166,7 @@ Wachutka L., __Dvoretskii S.__, Gagneur J. et al. wBuild – build system for R 
 
 ### Attended events highlights
 
+- __NeuroAI workshop__, BRAIN initiative, online - 12.-13. November 2024
 - __FENS Biocomputing__ Symposium, FENS Satellite event, 24 June 2024, Vienna, Austria
 - __SWAT4HCLS__, February 26-29, 2024, Leiden, The Netherlands
 - __FENS-IBRO Brain Conference__ “Establishment and Maintenance of <br> Brain Cell States”, poster & flash talk, 23.-26. April 2023, Copenhagen, Denmark
@@ -192,5 +194,5 @@ Violin (good), piano, ukulele, domra, guitar (bearable)
 Reading, Philosophy, Psychology, Basketball, Programming, listening to music, riding a bike, walking
 
 
-_Last updated: November 2024_
+_Last updated: December 2024_
 

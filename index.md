@@ -24,7 +24,7 @@ Large Language Models, Machine-actionable Datasets, Organoid Intelligence, Neuro
 ## Work experience
 
 `11.2023-currently`
-__Research Data Architect | German Cancer Research Center, Heidelberg__ 
+__Research Data Architect | German Cancer Research <br/> Center, Heidelberg__ 
 - Working on cutting-edge research in metadata and AI
 <hr>
 
@@ -35,7 +35,7 @@ __Master Thesis Spiking Neural Networks | University of Barcelona, Spain__
 <hr>
 
 `13.07.2022-30.09.2022`	
-__Internship in brain imaging | Georgia State University <br/> (Dr. Cyrus Eierud), USA__ 
+__Internship in brain imaging | Georgia State <br/> University (Dr. Cyrus Eierud), USA__ 
 - Demo of GIFT package (MATLAB, fMRI)
 <hr>
 

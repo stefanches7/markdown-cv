@@ -42,12 +42,14 @@ Neuroengineering and bioinformatics specialist with 5+ years of experience in AI
 `12.2023-currently`
 __Research Data Architect | German Cancer Research <br> Center (DKFZ), Heidelberg__ 
 - • Working on cutting-edge research in metadata and AI
-- • Accuracy of AI models could be improved by over 30% with the research product
+- • Achieved notable improvements in AI model accuracy through advanced research solutions
+
 
 `04.2023-10.2023`
 __Master Thesis Spiking Neural Networks | University of Barcelona, Spain__ 
-- • Plausible SNN model of in vitro 2D neuronal networks connectivity changes
-- • Save up to €6,000 per experiment through computer simulation.
+- • Developed a plausible SNN model of in vitro 2D neuronal network connectivity changes
+- • Demonstrated meaningful cost savings by employing computer simulations instead of certain wet-lab experiments
+
 
 `08.2022-11.2022`	
 __Machine Learning Application Developer | Georgia State University, USA__ 
@@ -56,12 +58,12 @@ __Machine Learning Application Developer | Georgia State University, USA__
 <hr>
 `08.2021-06.2022`
 __Data Scientist | PainLab Munich, Klinikum rechts der Isar__
-- • Developed digital biomarkers for Chronic Pain, reducing manual processing costs by 85%.
-- • Automated diagnosis, improving efficiency by 3x.
+- • Developed digital biomarkers for chronic pain, streamlining data processing and saving resources
+- • Implemented automated diagnostic methods, substantially enhancing workflow efficiency
 <hr>
 `04.2021-07.2021`
 __Application Engineer | Mentalab__
-- • Developed brain-computer interface use cases, increasing user conversion rates by >10%.
+- • Developed brain-computer interface use cases, leading to increased user engagement
 - • Contributed to agile product decisions in a startup setting.
 <hr>
 `10.2020-03.2021`

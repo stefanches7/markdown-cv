@@ -24,10 +24,19 @@ Neuroengineering and bioinformatics specialist with 5+ years of experience in AI
 ## Skills
 
 *AI & Neuroinspired Computing*: Large Language Models (LLMs), Spiking Neural Networks (SNNs), Organoid Intelligence, Neuroengineering
+<hr>
+
 *Data & Modeling*: Machine-actionable Datasets, Computational Biology, Bioinformatics, Metadata, Sequencing Data Analysis, Dynamical Systems
+<hr>
+
 *Programming & Tools*: Python (3 years), Java (3 years), Keras (2 years), Julia (2 years), JavaScript (2 years), R (2 years), HTML/CSS, SQL, Git, Bash, SCRUM
+<hr>
+
 *Analytics & Engineering*: Machine Learning, Software Engineering, Statistical Modeling, Data Engineering
+<hr>
+
 *Professional & Soft Skills*: Science Communication, International Collaboration, Teamwork, Communication
+<hr>
 
 ## Work experience
 `12.2023-currently`

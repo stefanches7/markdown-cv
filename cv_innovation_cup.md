@@ -16,9 +16,18 @@ Location: Heidelberg, Germany
   <a href="https://github.com/stefanches7">GitHub: stefanches7</a>
  </div>
 
+## Summary 
+
+Neuroengineering and bioinformatics specialist with 5+ years of experience in AI, Machine Learning, and Spiking Neural Networks. Seeking to leverage deep expertise in neuro-inspired AI, computational modeling, and large-scale data architectures to advance inference acceleration solutions.
+
+
 ## Skills
 
-Large Language Models, Metadata, Data Engineering, Machine Learning, Software Engineering, Statistical Modeling, Python (3 years), Java (3 years), Keras (2 years), Julia (2 years), JavaScript (2 years), R (2 years), HTML/CSS, SQL, Git, Bash, SCRUM, Sequencing Data Analysis, Communication, Teamwork
+*AI & Neuroinspired Computing*: Large Language Models (LLMs), Spiking Neural Networks (SNNs), Organoid Intelligence, Neuroengineering
+*Data & Modeling*: Machine-actionable Datasets, Computational Biology, Bioinformatics, Metadata, Sequencing Data Analysis, Dynamical Systems
+*Programming & Tools*: Python (3 years), Java (3 years), Keras (2 years), Julia (2 years), JavaScript (2 years), R (2 years), HTML/CSS, SQL, Git, Bash, SCRUM
+*Analytics & Engineering*: Machine Learning, Software Engineering, Statistical Modeling, Data Engineering
+*Professional & Soft Skills*: Science Communication, International Collaboration, Teamwork, Communication
 
 ## Work experience
 `12.2023-currently`
@@ -84,31 +93,6 @@ __B.Sc. Bioinformatics__ at the TU Munich/LMU Munich <br> (joint study program)
 - • Average grade: __1,9__ (best – 1,0; worst – 5,0)
 - • Thesis: SARS-CoV-2 variants in RNASeq data, facilitating the investigation of communal infection in hospitals.
 
-## Engagement
-
-`Collaborator`	
-__NeuroSim__ interests group, Orthogonal Research and Education Lab
-- ◦	Cognitive Science, AI, Neurobiology and Computation
-
-`Member`	
-AGV Academic Choral Society, Munich
-- ◦	Choir & orchestra (violin), event organization, cultural activities
-
-
-## Publications
-
-**Dvoretskii, S.**, Josh, M., Schader, P., Kulla, L., & Nolden, M. (2024). How to make Biomedical Imaging Datasets AI-ready?. HMC Conference 2024. https://doi.org/10.5281/zenodo.14041301
-<hr>
-**Dvoretskii, S.** (2024). Insights from Acquiring Open Medical Imaging Datasets for Foundation Model Development. Munich Health Foundation Models Symposium, Helmholtz Center Munich, Munich, Germany. https://doi.org/10.5281/zenodo.11503289
-<hr>
-__Dvoretskii Stefan et al.__ "Braitenberg vehicles as developmental neurosimulation." Artificial Life 28.3 (2022): 369-395.
-<hr>
-Esser, E., Schulte, E. C., Graf, A., Karollus, A., Smith, N. H., Michler, T.,__Dvoretskii, S.__, ... & Protzer, U. (2024). Viral genome sequencing to decipher in-hospital SARS-CoV-2 transmission events. Scientific Reports, 14(1), 5768.
-<hr>
-Bradly Alicea et al. "Developmental Embodied Agents as Meta-brain Models" DevoNN Workshop, 2020
-<hr>
-Wachutka L., __Dvoretskii S.__, Gagneur J. et al. wBuild – build system for R reports. (in preparation)
-<hr>
-_Last updated: November 2024_
+_Last updated: January 2025_
 
 

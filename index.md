@@ -106,8 +106,8 @@ __B.Sc. Bioinformatics__ at the TU Munich/LMU Munich <br> (joint study program)
 
 ## Grants
 
-`Fellowship`
-Helmholtz Enterprise Field Study Fellowship, Fall 2024 - 22,755€
+`Grant`
+Helmholtz Enterprise Field Study Fellowship, Fall 2024 - grant owner - 22,755€
 
 `Exchange`
 __Erasmus+__ SMP, June 2023-Oct 2023 - University of Barcelona, Spain
@@ -150,27 +150,6 @@ __NeuroSim__ interests group, Orthogonal Research and Education Lab
 AGV Academic Choral Society, Munich
 - ◦	Choir & orchestra (violin), event organization, cultural activities
 
-## Publications
-
-**Dvoretskii, S.** (2024, November 25). FAIR data and FAIR assessment. Zenodo. https://doi.org/10.5281/zenodo.14217529
-
-B Alicea, R Chakrabarty, **S Dvoretskii**, A Gopi, A Lim, and J Parent. Continual Developmental Neurosimulation Using Embodied
-Computational Agents. EI-2023 Conference Proceedings (in publication)
-
-**Dvoretskii, S.**, Josh, M., Schader, P., Kulla, L., & Nolden, M. (2024). How to make Biomedical Imaging Datasets AI-ready?. HMC Conference 2024, HMC Gather.Town. Zenodo. https://doi.org/10.5281/zenodo.14041301
-
-**Dvoretskii, S.** (2024). Insights from Acquiring Open Medical Imaging Datasets for Foundation Model Development. Munich Health Foundation Models Symposium, Helmholtz Center Munich, Munich, Germany. Zenodo. https://doi.org/10.5281/zenodo.11503289
-
-**Dvoretskii, S.**, Soriano Fradera, J., Houben, A. M., Haeb, A.-C., Universitat de Barcelona, & Erasmus+. (2024). Exploring Plasticity Rules in the Biologically Realistic Simulation of Neuronal Cultures [Zenodo]. FENS 2024: FENS BIOCOMPUTING, Vienna, Austria. https://doi.org/10.5281/zenodo.14258346
-
-**Dvoretskii, S.**, Gong, Z., Gupta, A., Parent, J., & Alicea, B. (2022). Braitenberg vehicles as developmental neurosimulation. Artificial Life, 28(3), 369-395.
-
-Esser, E., Schulte, E. C., Graf, A., Karollus, A., Smith, N. H., Michler, T.,__Dvoretskii, S.__, ... & Protzer, U. (2024). Viral genome sequencing to decipher in-hospital SARS-CoV-2 transmission events. Scientific Reports, 14(1), 5768.
-
-Bradly Alicea et al. "Developmental Embodied Agents as Meta-brain Models" DevoNN Workshop, 2020
-
-Wachutka L., __Dvoretskii S.__, Gagneur J. et al. wBuild – build system for R reports. (in preparation)
-
 ### Attended events highlights
 
 - __NeuroAI workshop__, BRAIN initiative, online - 12.-13. November 2024
@@ -201,5 +180,5 @@ Violin (good), piano, ukulele, domra, guitar (bearable)
 Reading, Philosophy, Psychology, Basketball, Programming, listening to music, riding a bike, walking
 
 
-_Last updated: December 2024_
+_Last updated: January 2025_
 

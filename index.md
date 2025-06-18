@@ -150,14 +150,17 @@ __NeuroSim__ interests group, Orthogonal Research and Education Lab
 AGV Academic Choral Society, Munich
 - ◦	Choir & orchestra (violin), event organization, cultural activities
 
-### Attended events highlights
+### Attended events highlights - and contributions
 
+- __HMC Conference 2025__, May 11-14, 2025, Cologne, Germany - poster
+- __SWAT4HCLS 2025__, February 24-27, 2025, Barcelona, Spain - poster
 - __NeuroAI workshop__, BRAIN initiative, online - 12.-13. November 2024
 - __FENS Biocomputing__ Symposium, FENS Satellite event, 24 June 2024, Vienna, Austria
-- __SWAT4HCLS__, February 26-29, 2024, Leiden, The Netherlands
-- __FENS-IBRO Brain Conference__ “Establishment and Maintenance of <br> Brain Cell States”, poster & flash talk, 23.-26. April 2023, Copenhagen, Denmark
+- __Helmholtz Foundation Model Symposium__, 10. April 2024 - poster & talk
+- __SWAT4HCLS 2024__, February 26-29, 2024, Leiden, The Netherlands
+- __FENS-IBRO Brain Conference__ “Establishment and Maintenance of <br> Brain Cell States”, 23.-26. April 2023, Copenhagen, Denmark - poster & flash talk
 - __EBRAINS__ PFC Workshop, 14.-16. March 2023, Paris, France
-- __EBRAINS__ CoCreate – Digital Roadmap for Neuropsychiatric Diseases,<br> 1.-3. March 2023, Copenhagen, Denmark & online
+- __EBRAINS__ CoCreate – Digital Roadmap for Neuropsychiatric Diseases,<br> 1.-3. March 2023, Copenhagen, Denmark
 - __Bridging Physics with Neuroscience and Machine Learning__ Symposium, <br> 6. December 2022, Hong Kong SAR, China
 - __TUM Business Game__, 28.-30. April 2022, Munich
 - __Siemens Innovation__ Think Tank Healthineers Workshop 2021, online

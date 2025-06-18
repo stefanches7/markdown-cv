@@ -107,7 +107,7 @@ __B.Sc. Bioinformatics__ at the TU Munich/LMU Munich <br> (joint study program)
 ## Grants
 
 `Grant`
-Helmholtz Enterprise Field Study Fellowship, Fall 2024 - grant owner - 22,755€
+__Helmholtz Enterprise Field Study Fellowship__, 02.2025-04.2025 - grant owner - 22,755€
 
 `Exchange`
 __Erasmus+__ SMP, June 2023-Oct 2023 - University of Barcelona, Spain

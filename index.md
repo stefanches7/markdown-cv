@@ -5,26 +5,31 @@ title: Stefan Dvoretskii CV
 <img style="float: right;width: 15vw; height:auto" src="media/my_photo.png">
 # Stefan Dvoretskii
 
-Location: Heidelberg, Germany
 <div id="webaddress">
-<a href="stefan.dvoretskii@tum.de">Email: stefan.dvoretskii@tum.de</a> 
+<a href="stefan.dvorezky@gmail.com">Email: stefan.dvorezky@gmail.com</a> 
   <br>
-  Phone: +4591463375
+  Phone: +4915208663081
   <br>
-<a href="https://www.linkedin.com/in/stefan-dvoretskii-03b183131/">LinkedIn: https://www.linkedin.com/in/stefan-dvoretskii-03b183131/</a>
+<a href="https://www.linkedin.com/in/stefan-dvoretskii/">LinkedIn: https://www.linkedin.com/in/stefan-dvoretskii/</a>
   <br> 
   <a href="https://github.com/stefanches7">GitHub: stefanches7</a>
  </div>
 
  
-### Research Interests
+### Skills
 
-Large Language Models, Machine-actionable Datasets, Organoid Intelligence, Neuroengineering, Computational Biology, Bioinformatics, Computational Modelling, Dynamical Systems, Science Communication, International Collaboration
+Neuroengineering, Biofabrication, Computational Biology, Dynamical Systems, Science Communication, International Collaboration
 
 ## Work experience
 
-`11.2023-currently`
-__Research Data Architect | German Cancer Research <br/> Center, Heidelberg__ 
+`12.2025-currently`
+__Neuroengineer | Eightsix Science, Utrecht, Netherlands__ 
+- Conducting experiments in Brain Tissue Bioprinting
+- Creating AI models to support Neuroengineering biofabrication
+<hr>
+
+`12.2023-12.2025`
+__Research Data Architect | German Cancer Research <br/> Center, Heidelberg, Germany__ 
 - Working on cutting-edge research in metadata and AI
 <hr>
 
@@ -45,31 +50,31 @@ __Internship in NeuCHiP - Neural cultures based AI | <br/>Prof. Dr. David Saad, 
 <hr>
 
 `15.08.2021-15.06.2022`
-__Student Research Assistant | PainLab Munich__ 
+__Student Research Assistant | PainLab Munich, Munich, Germany__ 
 - EEG connectivity in pain patients (MATLAB)
 <hr>
 
 `09.04.2021-31.07.2021`
-__Application Engineer | Mentalab, Munich__ 
+__Application Engineer | Mentalab, Munich, Germany__ 
 - EEG hardware production, Computational Modelling, Brain-Computer Interfaces, EEG data analysis, MATLAB
 <hr>
 
 `01.10.2020-31.03.2021`
-__Working Student IT | STABL GmbH, Munich__ 
+__Working Student IT | STABL GmbH, Munich, Germany__ 
 - Electrical multimodal battery system metrics
 <hr>
 
 `16.10.2019-14.02.2020`
-__Data Analysis and Visualization in R tutor | <br/>Technical University of Munich__
+__Data Analysis and Visualization in R tutor | <br/>Technical University of Munich, Munich, Germany__
 <hr>
 
 `05.2019-08.2019`
-__Google Summer of Code '19 Student | International Neuroinformatics Coordination Facility (Dr. Bradly Alicea)__ 
+__Google Summer of Code '19 Student | International Neuroinformatics Coordination Facility (Dr. Bradly Alicea), Sweden__ 
 - An embodied cognitive simulation with evolutionary development of neural networks with a guided user interface
 <hr>
 
 `01.2018-09.2020`
-__Student Undergraduate Researcher | Chair for Computational Biology, Technical University of Munich (Prof. Dr. Julien Gagneur)__ 
+__Student Undergraduate Researcher | Chair for Computational Biology, Technical University of Munich (Prof. Dr. Julien Gagneur), Germany__ 
 - Biological Modelling, Expression Data analysis, Bachelor's Thesis
 <hr>
 
@@ -79,12 +84,12 @@ __Google Summer of Code '17 Student | European Bioinformatics Institute, EMBL, C
 <hr>
 
 `01.2017-08.2017`	 
-__Student Developer | Omikron Data Quality GmbH, Berlin__ 
+__Student Developer | Omikron Data Quality GmbH, Berlin, Germany__ 
 - JavaGWT, Jenkins, CI/CD
 <hr>
 
 `10.2016-11.2016`	
-__Junior Project Manager | Deutsche Payment GmbH (Berlin) and Upnext Technologies Sp. z o.o. (Warsaw)__ 
+__Junior Project Manager | Deutsche Payment GmbH (Berlin) and Upnext Technologies Sp. z o.o. (Warsaw), Germany__ 
 - Ruby on Rails, Go
 <hr>
 
@@ -92,13 +97,13 @@ __Junior Project Manager | Deutsche Payment GmbH (Berlin) and Upnext Technologie
 
 
 `10.2020-09.2023`
-__Elite M. Sc. Neuroengineering__ in Elite Network of Bavaria,<br> __TU Munich__
+__Elite M. Sc. Neuroengineering__ in Elite Network of Bavaria,<br> __TU Munich, Germany__
 - • Average grade: __2,2__ (best – 1,0; worst – 5,0)
 - • Thesis: SNN model of in vitro 2D neuronal networks, saving up to €6,000 per experiment through computer simulation.
 - • _Stays abroad_: HKUST, Hong Kong (Aug 2022 - Jan 2023); DTU, Denmark (Jan 2023 - June 2023); Uni Barcelona (June 2023 - Oct 2023)
 
 `10.2017-09.2020`
-__B.Sc. Bioinformatics__ at the TU Munich/LMU Munich <br> (joint study program)
+__B.Sc. Bioinformatics__ at the TU Munich/LMU Munich <br> (joint study program), Germany
 - • Average grade: __1,9__ (best – 1,0; worst – 5,0)
 - • Thesis: SARS-CoV-2 variants in RNASeq data, facilitating the investigation of communal infection in hospitals.
 <hr>
@@ -183,5 +188,5 @@ Violin (good), piano, ukulele, domra, guitar (bearable)
 Reading, Philosophy, Psychology, Basketball, Programming, listening to music, riding a bike, walking
 
 
-_Last updated: June 2025_
+_Last updated: January 2026_
 

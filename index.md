@@ -24,8 +24,9 @@ Neuroengineering, Biofabrication, Computational Biology, Dynamical Systems, Scie
 
 `12.2025-currently`
 __Neuroengineer | Eightsix Science, Utrecht, Netherlands__ 
-- Conducting experiments in Brain Tissue Bioprinting
-- Creating AI models to support Neuroengineering biofabrication
+- Managing a small-scale **biotech lab** on an incubator base (protocols, experiments, biofabrication workflows, reagents procurement)
+- Maintaining **neuronal stem cells** to use as drug models and implants
+- Working with **AI models** to support Neuroengineering biofabrication
 <hr>
 
 `12.2023-12.2025`
@@ -111,14 +112,14 @@ __B.Sc. Bioinformatics__ at the TU Munich/LMU Munich <br> (joint study program),
 
 ## Grants
 
-`Grant`
+`Business Grant`
 __Helmholtz Enterprise Field Study Fellowship__, 02.2025-04.2025 - grant owner - 22,755€
 
-`Exchange`
-__Erasmus+__ SMP, June 2023-Oct 2023 - University of Barcelona, Spain
+`Mobility`
+__Erasmus+__ SMP, June 2023-Oct 2023 - University of Barcelona, Spain - ca. 3000€
 
-`Exchange`
-__Erasmus+__ mobility, Spring 2023 - Technical University of Denmark, Copenhagen
+`Mobility`
+__Erasmus+__ mobility, Spring 2023 - Technical University of Denmark, Copenhagen - ca. 4000€
 
 `Exchange`
 Hong Kong University of Science and Technology, Fall 2022 - Supported by BayCHINA

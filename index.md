@@ -100,13 +100,13 @@ __Junior Project Manager | Deutsche Payment GmbH (Berlin) and Upnext Technologie
 `10.2020-09.2023`
 __Elite M. Sc. Neuroengineering__ in Elite Network of Bavaria,<br> __TU Munich, Germany__
 - • Average grade: __2,2__ (best – 1,0; worst – 5,0)
-- • Thesis: SNN model of in vitro 2D neuronal networks, saving up to €6,000 per experiment through computer simulation.
+- • Thesis: SNN model of in vitro 2D neuronal networks, saving up to €6,000 per experiment through computer simulation. DOI:10.5281/zenodo.14441659
 - • _Stays abroad_: HKUST, Hong Kong (Aug 2022 - Jan 2023); DTU, Denmark (Jan 2023 - June 2023); Uni Barcelona (June 2023 - Oct 2023)
 
 `10.2017-09.2020`
 __B.Sc. Bioinformatics__ at the TU Munich/LMU Munich <br> (joint study program), Germany
 - • Average grade: __1,9__ (best – 1,0; worst – 5,0)
-- • Thesis: SARS-CoV-2 variants in RNASeq data, facilitating the investigation of communal infection in hospitals.
+- • Thesis: SARS-CoV-2 variants in RNASeq data, facilitating the investigation of communal infection in hospitals. DOI:10.5281/zenodo.18010516
 <hr>
 
 
@@ -115,14 +115,6 @@ __B.Sc. Bioinformatics__ at the TU Munich/LMU Munich <br> (joint study program),
 `Business Grant`
 __Helmholtz Enterprise Field Study Fellowship__, 02.2025-04.2025 - grant owner - 22,755€
 
-`Mobility`
-__Erasmus+__ SMP, June 2023-Oct 2023 - University of Barcelona, Spain - ca. 3000€
-
-`Mobility`
-__Erasmus+__ mobility, Spring 2023 - Technical University of Denmark, Copenhagen - ca. 4000€
-
-`Exchange`
-Hong Kong University of Science and Technology, Fall 2022 - Supported by BayCHINA
 
 `Fellowship`
 __INCF & Mathworks__ Summer of Code project, 07.2022-10.2022 - 3000$
@@ -142,9 +134,14 @@ __Google__ Summer of Code project, Summer 2017 - 6000$
 `Fellowship`	
 Motivation stipend of the __TU Berlin__, 09.2016 - 07.2017 - 3000€
 
-`School exchange`	 
-__Woodbridge School__, Woodbridge, Suffolk, Great Britain
+`Mobility`
+__Erasmus+__ SMP, June 2023-Oct 2023 - University of Barcelona, Spain - ca. 3000€
 
+`Mobility`
+__Erasmus+__ mobility, Spring 2023 - Technical University of Denmark, Copenhagen - ca. 4000€
+
+`Mobility`
+Hong Kong University of Science and Technology, Fall 2022 - 2000€
 
 ## Engagement
 
@@ -158,20 +155,20 @@ AGV Academic Choral Society, Munich
 
 ### Attended events highlights - and contributions
 
-- __HMC Conference 2025__, May 11-14, 2025, Cologne, Germany - poster
-- __SWAT4HCLS 2025__, February 24-27, 2025, Barcelona, Spain - poster
-- __NeuroAI workshop__, BRAIN initiative, online - 12.-13. November 2024
-- __FENS Biocomputing__ Symposium, FENS Satellite event, 24 June 2024, Vienna, Austria
-- __Helmholtz Foundation Model Symposium__, 10. April 2024 - poster & talk
+- __HMC Conference 2025__, May 11-14, 2025, Cologne, Germany - posters "How to make Biomedical Imaging Datasets AI-ready?", "Unifying Heterogeneous Medical Images Using Large Language Models". DOI:10.5281/zenodo.14217316, 10.5281/zenodo.15480676
+- __SWAT4HCLS 2025__, February 24-27, 2025, Barcelona, Spain - poster "OMExcavator: a tool for exporting and connecting Bioimaging-specific metadata in wider knowledge graphs". DOI:10.5281/zenodo.15423904
+  - Biohackathon report: "Towards AI-Ready Datasets for the Life Sciences" - https://europepmc.org/article/ppr/ppr1022456
+- __FENS Biocomputing__ Symposium, FENS Satellite event, 24 June 2024, Vienna, Austria - Master Thesis poster "Exploring Plasticity Rules in the Biologically Realistic Simulation of Neuronal Cultures" DOI:10.5281/zenodo.14441659
+- __Helmholtz Foundation Model Symposium__, 10. April 2024 - poster & talk - DOI:10.5281/zenodo.11503289
 - __SWAT4HCLS 2024__, February 26-29, 2024, Leiden, The Netherlands
-- __FENS-IBRO Brain Conference__ “Establishment and Maintenance of <br> Brain Cell States”, 23.-26. April 2023, Copenhagen, Denmark - poster & flash talk
+- __FENS-IBRO Brain Conference__ “Establishment and Maintenance of <br> Brain Cell States”, 23.-26. April 2023, Copenhagen, Denmark - poster & flash talk - DOI:10.5281/zenodo.21471687
 - __EBRAINS__ PFC Workshop, 14.-16. March 2023, Paris, France
-- __EBRAINS__ CoCreate – Digital Roadmap for Neuropsychiatric Diseases,<br> 1.-3. March 2023, Copenhagen, Denmark
+- __EBRAINS__ CoCreate – Digital Roadmap for Neuropsychiatric Diseases,<br> 1.-3. March 2023, Copenhagen, Denmark. DOI:10.5281/zenodo.8058795
 - __Bridging Physics with Neuroscience and Machine Learning__ Symposium, <br> 6. December 2022, Hong Kong SAR, China
 - __TUM Business Game__, 28.-30. April 2022, Munich
 - __Siemens Innovation__ Think Tank Healthineers Workshop 2021, online
 - __Brainhack__ __2019__ Geneva, Marburg __2021__ Geneva, Marseille
-- __Neuroinformatics 2019__, 1-2 September in Warsaw, Poland 
+- __Neuroinformatics 2019__, 1-2 September in Warsaw, Poland - DOI:10.5281/zenodo.21496026
 
 
 ## Skills and Hobbies 

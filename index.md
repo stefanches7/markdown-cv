@@ -25,7 +25,7 @@ Neuroengineering, Biofabrication, Computational Biology, Dynamical Systems, Scie
 `12.2025-currently`
 __Neuroengineer | Eightsix Science, Utrecht, Netherlands__ 
 - Managing a small-scale **biotech lab** on an incubator base (protocols, experiments, biofabrication workflows, reagents procurement)
-- Maintaining **neuronal stem cells** to use as drug models and implants
+- Bioprinting with **neuronal stem cells** and **2-photon / volumetric bioprinters** to produce drug models and implants
 - Working with **AI models** to support Neuroengineering biofabrication
 <hr>
 
@@ -96,6 +96,10 @@ __Junior Project Manager | Deutsche Payment GmbH (Berlin) and Upnext Technologie
 
 ## Education
 
+`12.2025-ongoing`
+__PhD Regenerative Medicine__, __UMC Utrecht / University Utrecht__
+- • Thesis topic: Generative Context-Aware Biofabrication of Implantable Neural Tissue
+- • Supervisors: Daniel Burger (CEO Eightsix Science), Dr. Kentaroh Takagaki (Yamanashi University, Japan), Dr. Riccardo Levato (University of Utrecht / UMC Utrecht)
 
 `10.2020-09.2023`
 __Elite M. Sc. Neuroengineering__ in Elite Network of Bavaria,<br> __TU Munich, Germany__

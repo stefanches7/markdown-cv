@@ -24,14 +24,15 @@ Neuroengineering, Biofabrication, Computational Biology, Dynamical Systems, Scie
 
 `12.2025-currently`
 __Neuroengineer | Eightsix Science, Utrecht, Netherlands__ 
-- Managing a small-scale **biotech lab** on an incubator base (protocols, experiments, biofabrication workflows, reagents procurement)
-- Bioprinting with **neuronal stem cells** and **2-photon / volumetric bioprinters** to produce drug models and implants
-- Working with **AI models** to support Neuroengineering biofabrication
+- Leading a **biotech lab** on an incubator base to fabricate neural regenerative implants for glioma, stroke and traumatic injury
+- Working with **AI models** to support biofabrication
+- **Leading a working package** of the awarded **EIC Pathfinder** grant
 <hr>
 
 `12.2023-12.2025`
 __Research Data Architect | German Cancer Research <br/> Center, Heidelberg, Germany__ 
-- Working on cutting-edge research in metadata and AI
+- Researched AI model usage for Biomedical metadata curation, drastically offseting costs
+- Received a **Field Study** grant of 30,000€ to study AI metadata curation in German clinics 
 <hr>
 
 `04.2023-10.2023`
@@ -42,56 +43,57 @@ __Master Thesis Spiking Neural Networks | University of Barcelona, Spain__
 
 `13.07.2022-30.09.2022`	
 __Internship in brain imaging | Georgia State <br/> University (Dr. Cyrus Eierud), USA__ 
-- Demo of GIFT package (MATLAB, fMRI)
+- Produced a demo of GIFT package (MATLAB, fMRI) to offset support time by more than 50%
 <hr>
 
 `03.07.2022-02.09.2022`
 __Internship in NeuCHiP - Neural cultures based AI | <br/>Prof. Dr. David Saad, Aston, UK__ 
-- Computing in biological neural networks
+- Worked on Tranfer Entropy debiasing for neural culture connectivitzy inference
 <hr>
 
 `15.08.2021-15.06.2022`
 __Student Research Assistant | PainLab Munich, Munich, Germany__ 
-- EEG connectivity in pain patients (MATLAB)
+- Assisted in EEG connectivity pipeline construction for pain biomarkers patients, enabling a +1 year earlier diagnosis and continuous monitoring
 <hr>
 
 `09.04.2021-31.07.2021`
 __Application Engineer | Mentalab, Munich, Germany__ 
-- EEG hardware production, Computational Modelling, Brain-Computer Interfaces, EEG data analysis, MATLAB
+- Developed 2 use-cases for company's BCI interface
 <hr>
 
 `01.10.2020-31.03.2021`
 __Working Student IT | STABL GmbH, Munich, Germany__ 
-- Electrical multimodal battery system metrics
+- Implemented a telemetric control of the multimodal battery rack
 <hr>
 
 `16.10.2019-14.02.2020`
 __Data Analysis and Visualization in R tutor | <br/>Technical University of Munich, Munich, Germany__
+- Taught Data Analysis to business and medical students in a classroom of 40
 <hr>
 
 `05.2019-08.2019`
 __Google Summer of Code '19 Student | International Neuroinformatics Coordination Facility (Dr. Bradly Alicea), Sweden__ 
-- An embodied cognitive simulation with evolutionary development of neural networks with a guided user interface
+- Produced an embodied cognitive simulation, which resulted in a MIT Artificial Life publication and 4 workshop presentations
 <hr>
 
 `01.2018-09.2020`
 __Student Undergraduate Researcher | Chair for Computational Biology, Technical University of Munich (Prof. Dr. Julien Gagneur), Germany__ 
-- Biological Modelling, Expression Data analysis, Bachelor's Thesis
+- RNA and protein sequencing pipelines for rare diseases and SARS-CoV-2
 <hr>
 
 `05.2017-08.2017`
 __Google Summer of Code '17 Student | European Bioinformatics Institute, EMBL, Cambridge, UK__ 
-- Files search API with a web interface (Javascript, React.js, Perl, HTML/CSS)
+- Developed a search API with a web interface (Javascript, React.js, Perl, HTML/CSS) which saves file search time by 153%
 <hr>
 
 `01.2017-08.2017`	 
 __Student Developer | Omikron Data Quality GmbH, Berlin, Germany__ 
-- JavaGWT, Jenkins, CI/CD
+- Assisted with small software development tasks in a web inventory application used by OBI and other big retailers
 <hr>
 
 `10.2016-11.2016`	
 __Junior Project Manager | Deutsche Payment GmbH (Berlin) and Upnext Technologies Sp. z o.o. (Warsaw), Germany__ 
-- Ruby on Rails, Go
+- Managed a cross-country software development collaboration of an active payment gateway
 <hr>
 
 ## Education
@@ -190,5 +192,5 @@ Violin (good), piano, ukulele, domra, guitar (bearable)
 Reading, Philosophy, Psychology, Basketball, Programming, listening to music, riding a bike, walking
 
 
-_Last updated: January 2026_
+_Last updated: November 2026_
 

@@ -37,21 +37,6 @@ __Research Data Architect | German Cancer Research <br/> Center, Heidelberg, Ger
 - Received a **Field Study** grant of 30,000€ to study AI metadata curation in German clinics 
 <hr>
 
-`13.07.2022-30.09.2022`	
-__Internship in brain imaging | Georgia State <br/> University (Dr. Cyrus Eierud), USA__ 
-- Produced a demo of GIFT package (MATLAB, fMRI) to offset support time by more than 50%
-<hr>
-
-`03.07.2022-02.09.2022`
-__Internship in NeuCHiP - Neural cultures based AI | <br/>Prof. Dr. David Saad, Aston, UK__ 
-- Worked on Tranfer Entropy debiasing for neural culture connectivitzy inference
-<hr>
-
-`15.08.2021-15.06.2022`
-__Student Research Assistant | PainLab Munich, Munich, Germany__ 
-- Assisted in EEG connectivity pipeline construction for pain biomarkers patients, enabling a +1 year earlier diagnosis and continuous monitoring
-<hr>
-
 `09.04.2021-31.07.2021`
 __Application Engineer | Mentalab, Munich, Germany__ 
 - Developed 2 use-cases for company's BCI interface
@@ -62,15 +47,14 @@ __Working Student IT | STABL GmbH, Munich, Germany__
 - Implemented a telemetric control of the multimodal battery rack
 <hr>
 
-`16.10.2019-14.02.2020`
-__Data Analysis and Visualization in R tutor | <br/>Technical University of Munich, Munich, Germany__
-- Taught Data Analysis to business and medical students in a classroom of 40
+`05.2019-08.2019`
+__Google Summer of Code '19 Student | International Neuroinformatics Coordination Facility (Dr. Bradly Alicea), Sweden__ 
+- Produced an embodied cognitive simulation, which resulted in a MIT Artificial Life publication and 4 workshop presentations
 <hr>
 
-
-`01.2018-09.2020`
-__Student Undergraduate Researcher | Chair for Computational Biology, Technical University of Munich (Prof. Dr. Julien Gagneur), Germany__ 
-- RNA and protein sequencing pipelines for rare diseases and SARS-CoV-2
+`05.2017-08.2017`
+__Google Summer of Code '17 Student | European Bioinformatics Institute, EMBL, Cambridge, UK__ 
+- Developed a search API with a web interface (Javascript, React.js, Perl, HTML/CSS) which saves file search time by 153%
 <hr>
 
 `01.2017-08.2017`	 
@@ -102,6 +86,39 @@ __B.Sc. Bioinformatics__ at the TU Munich/LMU Munich <br> (joint study program),
 - • Thesis: SARS-CoV-2 variants in RNASeq data, facilitating the investigation of communal infection in hospitals. DOI:10.5281/zenodo.18010516
 <hr>
 
+
+## Grants
+
+`Business Grant`
+__Helmholtz Enterprise Field Study Fellowship__, 02.2025-04.2025 - grant owner - 22,755€
+
+`Fellowship`
+__INCF & Mathworks__ Summer of Code project, 07.2022-10.2022 - 3000$
+
+`Fellowship`
+__Hans-Rudolf__-Stiftung, 10.2018-10.2023 - 10500€
+
+`Fellowship`
+__Google__ Summer of Code project, Summer 2019 - 4600$
+
+`Fellowship`	
+__BayBIDS__ motivation stipend, 11.2017-10.2018 - 3300€
+
+`Fellowship`	
+__Google__ Summer of Code project, Summer 2017 - 6000$
+
+`Fellowship`	
+Motivation stipend of the __TU Berlin__, 09.2016 - 07.2017 - 3000€
+
+`Mobility`
+__Erasmus+__ SMP, June 2023-Oct 2023 - University of Barcelona, Spain - ca. 3000€
+
+`Mobility`
+__Erasmus+__ mobility, Spring 2023 - Technical University of Denmark, Copenhagen - ca. 4000€
+
+`Mobility`
+Hong Kong University of Science and Technology, Fall 2022 - 2000€
+
 ## Skills and Hobbies 
 
 ### Languages 
@@ -118,4 +135,3 @@ Reading, Philosophy, Psychology, Basketball, Programming, listening to music, ri
 
 
 _Last updated: November 2026_
-

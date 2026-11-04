@@ -35,12 +35,6 @@ __Research Data Architect | German Cancer Research <br/> Center, Heidelberg, Ger
 - Received a **Field Study** grant of 30,000€ to study AI metadata curation in German clinics 
 <hr>
 
-`04.2023-10.2023`
-__Master Thesis Spiking Neural Networks | University of Barcelona, Spain__ 
-- Plausible SNN model of in vitro 2D neuronal networks connectivity changes
-- Save up to €6,000 per experiment through computer simulation
-<hr>
-
 `13.07.2022-30.09.2022`	
 __Internship in brain imaging | Georgia State <br/> University (Dr. Cyrus Eierud), USA__ 
 - Produced a demo of GIFT package (MATLAB, fMRI) to offset support time by more than 50%
@@ -71,19 +65,10 @@ __Data Analysis and Visualization in R tutor | <br/>Technical University of Muni
 - Taught Data Analysis to business and medical students in a classroom of 40
 <hr>
 
-`05.2019-08.2019`
-__Google Summer of Code '19 Student | International Neuroinformatics Coordination Facility (Dr. Bradly Alicea), Sweden__ 
-- Produced an embodied cognitive simulation, which resulted in a MIT Artificial Life publication and 4 workshop presentations
-<hr>
 
 `01.2018-09.2020`
 __Student Undergraduate Researcher | Chair for Computational Biology, Technical University of Munich (Prof. Dr. Julien Gagneur), Germany__ 
 - RNA and protein sequencing pipelines for rare diseases and SARS-CoV-2
-<hr>
-
-`05.2017-08.2017`
-__Google Summer of Code '17 Student | European Bioinformatics Institute, EMBL, Cambridge, UK__ 
-- Developed a search API with a web interface (Javascript, React.js, Perl, HTML/CSS) which saves file search time by 153%
 <hr>
 
 `01.2017-08.2017`	 
@@ -114,68 +99,6 @@ __B.Sc. Bioinformatics__ at the TU Munich/LMU Munich <br> (joint study program),
 - • Average grade: __1,9__ (best – 1,0; worst – 5,0)
 - • Thesis: SARS-CoV-2 variants in RNASeq data, facilitating the investigation of communal infection in hospitals. DOI:10.5281/zenodo.18010516
 <hr>
-
-
-## Grants
-
-`Business Grant`
-__Helmholtz Enterprise Field Study Fellowship__, 02.2025-04.2025 - grant owner - 22,755€
-
-
-`Fellowship`
-__INCF & Mathworks__ Summer of Code project, 07.2022-10.2022 - 3000$
-
-`Fellowship`
-__Hans-Rudolf__-Stiftung, 10.2018-10.2023 - 10500€
-
-`Fellowship`
-__Google__ Summer of Code project, Summer 2019 - 4600$
-
-`Fellowship`	
-__BayBIDS__ motivation stipend, 11.2017-10.2018 - 3300€
-
-`Fellowship`	
-__Google__ Summer of Code project, Summer 2017 - 6000$
-
-`Fellowship`	
-Motivation stipend of the __TU Berlin__, 09.2016 - 07.2017 - 3000€
-
-`Mobility`
-__Erasmus+__ SMP, June 2023-Oct 2023 - University of Barcelona, Spain - ca. 3000€
-
-`Mobility`
-__Erasmus+__ mobility, Spring 2023 - Technical University of Denmark, Copenhagen - ca. 4000€
-
-`Mobility`
-Hong Kong University of Science and Technology, Fall 2022 - 2000€
-
-## Engagement
-
-`Collaborator`	
-__NeuroSim__ interests group, Orthogonal Research and Education Lab
-- ◦	Cognitive Science, AI, Neurobiology and Computation
-
-`Member`	
-AGV Academic Choral Society, Munich
-- ◦	Choir & orchestra (violin), event organization, cultural activities
-
-### Attended events highlights - and contributions
-
-- __HMC Conference 2025__, May 11-14, 2025, Cologne, Germany - posters "How to make Biomedical Imaging Datasets AI-ready?", "Unifying Heterogeneous Medical Images Using Large Language Models". DOI:10.5281/zenodo.14217316, 10.5281/zenodo.15480676
-- __SWAT4HCLS 2025__, February 24-27, 2025, Barcelona, Spain - poster "OMExcavator: a tool for exporting and connecting Bioimaging-specific metadata in wider knowledge graphs". DOI:10.5281/zenodo.15423904
-  - Biohackathon report: "Towards AI-Ready Datasets for the Life Sciences" - https://europepmc.org/article/ppr/ppr1022456
-- __FENS Biocomputing__ Symposium, FENS Satellite event, 24 June 2024, Vienna, Austria - Master Thesis poster "Exploring Plasticity Rules in the Biologically Realistic Simulation of Neuronal Cultures" DOI:10.5281/zenodo.14441659
-- __Helmholtz Foundation Model Symposium__, 10. April 2024 - poster & talk - DOI:10.5281/zenodo.11503289
-- __SWAT4HCLS 2024__, February 26-29, 2024, Leiden, The Netherlands
-- __FENS-IBRO Brain Conference__ “Establishment and Maintenance of <br> Brain Cell States”, 23.-26. April 2023, Copenhagen, Denmark - poster & flash talk - DOI:10.5281/zenodo.21471687
-- __EBRAINS__ PFC Workshop, 14.-16. March 2023, Paris, France
-- __EBRAINS__ CoCreate – Digital Roadmap for Neuropsychiatric Diseases,<br> 1.-3. March 2023, Copenhagen, Denmark. DOI:10.5281/zenodo.8058795
-- __Bridging Physics with Neuroscience and Machine Learning__ Symposium, <br> 6. December 2022, Hong Kong SAR, China
-- __TUM Business Game__, 28.-30. April 2022, Munich
-- __Siemens Innovation__ Think Tank Healthineers Workshop 2021, online
-- __Brainhack__ __2019__ Geneva, Marburg __2021__ Geneva, Marseille
-- __Neuroinformatics 2019__, 1-2 September in Warsaw, Poland - DOI:10.5281/zenodo.21496026
-
 
 ## Skills and Hobbies 
 

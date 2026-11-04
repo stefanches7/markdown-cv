@@ -87,25 +87,13 @@ __B.Sc. Bioinformatics__ at the TU Munich/LMU Munich <br> (joint study program),
 <hr>
 
 
-## Grants
-
-`Business Grant`
-__Helmholtz Enterprise Field Study Fellowship__, 02.2025-04.2025 - grant owner - 22,755€
-
-`Fellowship`
-__INCF & Mathworks__ Summer of Code project, 07.2022-10.2022 - 3000$
+## Fellowships
 
 `Fellowship`
 __Hans-Rudolf__-Stiftung, 10.2018-10.2023 - 10500€
 
-`Fellowship`
-__Google__ Summer of Code project, Summer 2019 - 4600$
-
 `Fellowship`	
 __BayBIDS__ motivation stipend, 11.2017-10.2018 - 3300€
-
-`Fellowship`	
-__Google__ Summer of Code project, Summer 2017 - 6000$
 
 `Fellowship`	
 Motivation stipend of the __TU Berlin__, 09.2016 - 07.2017 - 3000€

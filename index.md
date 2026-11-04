@@ -5,6 +5,8 @@ title: Stefan Dvoretskii CV
 
 # Stefan Dvoretskii
 
+<img style="float: right;width: 15vw; height:auto" src="media/my_photo.png">
+
 <div id="webaddress">
 <a href="stefan.dvorezky@gmail.com">Email: stefan.dvorezky@gmail.com</a> 
   <br>
